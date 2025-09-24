@@ -11,17 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": 4361.937246515804,
-                  "y": -998.2288207093104,
-                  "zoom": -0.44363530968495296
-                }
+                "file": "Generele informatie/Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
@@ -228,15 +226,16 @@
       "bases:Create new base": false,
       "homepage:Open homepage": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Main Workspace.canvas",
     "2025-09-24.md",
     "Logboek/Uren.md",
     "Logboek/18-09-2025.md",
-    "Main Workspace.canvas",
     "Logboek/17-09-2025.md",
     "Logboek/16-09-2025.md",
     "Logboek/15-09-2025.md",
@@ -260,7 +259,6 @@
     "Archive/Zaaksystem.md",
     "Archive/Azure Devops.md",
     "Archive/EnableU.md",
-    "Archive/login foto.md",
     "Archive/Organogram.canvas",
     "Archive",
     "fotos/mindmap.png",

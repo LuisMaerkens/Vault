@@ -1,9 +1,5 @@
 dim packed
 
-jelmer
-
-erik schot
-
 podium d
 
 suite openzaak
@@ -23,12 +19,6 @@ migeren naar WeAreFrank!
 
 
 
-
-
-migratie project decumentatie
-- koppeling 
-- connector
-- ssc (shared service center)
 
 0 meeting
 -   De 0-meting (ook wel een nul-meting genoemd) kan voor vrijwel elk onderzoek ingezetworden. Het geeft een beeld van de huidige situatie vóórdat er reclame of marketing ingezet wordt.
