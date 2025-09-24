@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ae036966e1023369",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "a43e968b95876dda",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Main Workspace.canvas",
+                "viewState": {
+                  "x": -70.43277806084694,
+                  "y": -1934.1513010104522,
+                  "zoom": -1.9999999999999993
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Workspace"
             }
           }
         ]
@@ -178,22 +185,12 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
-            "id": "29e13eb3711aa3dc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -235,7 +232,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a43e968b95876dda",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Main Workspace.canvas",
     "Generele informatie/Notes.md",
