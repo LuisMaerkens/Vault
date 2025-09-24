@@ -23,3 +23,10 @@
 [[Logboek]]
 
 
+```
+// Zoek de eerste tabel in het huidige bestand
+let table = dv.current().file.sections.find(s => s.type === 'table');
+// Tel alle waarden in de eerste kolom op
+let sum = table.rows.reduce((a, row) => a + Number(row.cells[0]), 0);
+dv.paragraph("Totaal kolom A: **" + sum + "**");
+```

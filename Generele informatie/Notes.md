@@ -19,7 +19,8 @@ opschrijven hoe veel en voor wie de koppelingen zijn
 stuff berichten xml
 
 
-
+| A   | uur |
+| --- | --- |
 # **intake**
 
 citypermit to key2dds
