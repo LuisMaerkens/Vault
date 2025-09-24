@@ -11,5 +11,7 @@
   "omnisearch",
   "obsidian-chartsview-plugin",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-kanban"
 ]

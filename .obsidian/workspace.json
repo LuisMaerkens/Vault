@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logboek/Uren.md",
+                "file": "Archive/login foto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Uren"
+              "title": "login foto"
             }
           }
         ]
@@ -34,7 +34,6 @@
       {
         "id": "a5c5a402873accbd",
         "type": "tabs",
-        "dimension": 69.40363007778738,
         "children": [
           {
             "id": "8dcbc8ae5a7688d0",
@@ -58,14 +57,7 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          }
-        ]
-      },
-      {
-        "id": "02f91208b07f1a1d",
-        "type": "tabs",
-        "dimension": 30.596369922212617,
-        "children": [
+          },
           {
             "id": "d40a2493bb276504",
             "type": "leaf",
@@ -168,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generele informatie/Notes.md",
+                "file": "Logboek/Uren.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -217,6 +209,8 @@
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "brain-dump-mode:Activate Brain Dump Mode": false,
       "obsidian-custom-frames:Open Calendar": false,
       "switcher:Open quick switcher": false,
@@ -227,16 +221,16 @@
       "bases:Create new base": false,
       "homepage:Open homepage": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Generele informatie/Notes.md",
     "Main Workspace.canvas",
-    "2025-09-24.md",
+    "Generele informatie/Notes.md",
+    "Search.md",
     "Logboek/Uren.md",
+    "2025-09-24.md",
     "Logboek/18-09-2025.md",
     "Logboek/17-09-2025.md",
     "Logboek/16-09-2025.md",
@@ -247,7 +241,6 @@
     "Logboek/24-09-2025.md",
     "Logboek/23-09-2025.md",
     "Templates/Logboek Template.md",
-    "Untitled.md",
     "Templates",
     "Logboek/01-09-2025.md",
     "TIMER.md",

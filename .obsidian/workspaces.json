@@ -17,9 +17,9 @@
                   "state": {
                     "file": "Main Workspace.canvas",
                     "viewState": {
-                      "x": -560,
-                      "y": -1443,
-                      "zoom": -3.2534228110495027
+                      "x": -50.5,
+                      "y": -1460,
+                      "zoom": -3.4436353096849532
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -38,7 +38,6 @@
           {
             "id": "a5c5a402873accbd",
             "type": "tabs",
-            "dimension": 69.40363007778738,
             "children": [
               {
                 "id": "8dcbc8ae5a7688d0",
@@ -62,14 +61,7 @@
                   "icon": "lucide-bookmark",
                   "title": "Bookmarks"
                 }
-              }
-            ]
-          },
-          {
-            "id": "02f91208b07f1a1d",
-            "type": "tabs",
-            "dimension": 30.596369922212617,
-            "children": [
+              },
               {
                 "id": "d40a2493bb276504",
                 "type": "leaf",
@@ -116,8 +108,8 @@
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
                   },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for daily"
+                  "icon": "lucide-ghost",
+                  "title": "backlink"
                 }
               },
               {
@@ -172,7 +164,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Generele informatie/Notes.md",
+                    "file": "Logboek/Uren.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
@@ -187,8 +179,8 @@
                 "state": {
                   "type": "mermaid-toolbar-view",
                   "state": {},
-                  "icon": "trident-custom",
-                  "title": "Mermaid Toolbar"
+                  "icon": "lucide-ghost",
+                  "title": "mermaid-toolbar-view"
                 }
               }
             ],
@@ -218,12 +210,16 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "omnisearch:Omnisearch": false,
+          "obsidian-git:Open Git source control": false,
+          "publish:Publish changes...": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
           "brain-dump-mode:Activate Brain Dump Mode": false,
           "obsidian-custom-frames:Open Calendar": false,
           "switcher:Open quick switcher": false,
           "canvas:Create new canvas": false,
           "graph:Open graph view": false,
-          "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
           "bases:Create new base": false,
@@ -233,11 +229,12 @@
         }
       },
       "active": "e7a7b303c61786dc",
-      "mtime": "2025-09-22T08:31:21+02:00",
+      "mtime": "2025-09-24T15:37:19+02:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "Generele informatie",
           "kennismakings profielen",
+          "Leerdoelen",
           "Logboek"
         ]
       }
@@ -255,17 +252,15 @@
                 "id": "e7a7b303c61786dc",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "Main Workspace.canvas",
-                    "viewState": {
-                      "x": -560,
-                      "y": -1443,
-                      "zoom": -3.2534228110495027
-                    }
+                    "file": "Generele informatie/Notes.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Main Workspace"
+                  "icon": "lucide-file",
+                  "title": "Notes"
                 }
               }
             ]
@@ -280,7 +275,6 @@
           {
             "id": "a5c5a402873accbd",
             "type": "tabs",
-            "dimension": 69.40363007778738,
             "children": [
               {
                 "id": "8dcbc8ae5a7688d0",
@@ -304,14 +298,7 @@
                   "icon": "lucide-bookmark",
                   "title": "Bookmarks"
                 }
-              }
-            ]
-          },
-          {
-            "id": "02f91208b07f1a1d",
-            "type": "tabs",
-            "dimension": 30.596369922212617,
-            "children": [
+              },
               {
                 "id": "d40a2493bb276504",
                 "type": "leaf",
@@ -358,8 +345,8 @@
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
                   },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for daily"
+                  "icon": "lucide-ghost",
+                  "title": "backlink"
                 }
               },
               {
@@ -414,7 +401,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Generele informatie/Notes.md",
+                    "file": "Logboek/Uren.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
@@ -429,8 +416,8 @@
                 "state": {
                   "type": "mermaid-toolbar-view",
                   "state": {},
-                  "icon": "trident-custom",
-                  "title": "Mermaid Toolbar"
+                  "icon": "lucide-ghost",
+                  "title": "mermaid-toolbar-view"
                 }
               }
             ],
@@ -461,12 +448,16 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "omnisearch:Omnisearch": false,
+          "obsidian-git:Open Git source control": false,
+          "publish:Publish changes...": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
           "brain-dump-mode:Activate Brain Dump Mode": false,
           "obsidian-custom-frames:Open Calendar": false,
           "switcher:Open quick switcher": false,
           "canvas:Create new canvas": false,
           "graph:Open graph view": false,
-          "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
           "bases:Create new base": false,
@@ -476,11 +467,12 @@
         }
       },
       "active": "e7a7b303c61786dc",
-      "mtime": "2025-09-22T08:31:38+02:00",
+      "mtime": "2025-09-24T15:37:48+02:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "Generele informatie",
           "kennismakings profielen",
+          "Leerdoelen",
           "Logboek"
         ]
       }
