@@ -14,11 +14,19 @@ kanban-plugin: board
 - [ ] Docker verdiepen
 - [ ] Stage verslag bronnen
 - [ ] [[Stage verslag Documentatie]]
+- [ ] wordenboek orgeniseren
 
 
 ## Doing
 
 - [ ] Stage verslag week 3
+
+
+## On Hold
+
+- [ ] Bruno Research
+- [ ] WAF verdiepen
+- [ ] MS365 research
 
 
 ## Done
@@ -33,6 +41,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
