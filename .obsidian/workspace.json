@@ -178,9 +178,19 @@
               "icon": "lucide-ghost",
               "title": "mermaid-toolbar-view"
             }
+          },
+          {
+            "id": "3a94fa20942b4e39",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -221,7 +231,8 @@
       "bases:Create new base": false,
       "homepage:Open homepage": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "e7a7b303c61786dc",
