@@ -31,5 +31,29 @@
       "key": "O"
     }
   ],
-  "switcher:open": []
+  "switcher:open": [],
+  "publish:open-in-live-site": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "publish:publish-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "publish:view-changes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Y"
+    }
+  ]
 }
