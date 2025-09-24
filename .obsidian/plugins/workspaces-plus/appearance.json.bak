@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Ukiyo",
+  "accentColor": "#cbaa87",
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "mermaid"
+  ]
+}

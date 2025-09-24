@@ -1,0 +1,4 @@
+Brian Dijkstra is strategisch informatiemanager en houdt zich bezig met de lange termijnvisie: hoe staat de organisatie er over vijf jaar voor? In zijn rol richt hij zich op proces- en risicomanagement, sectoroverstijgende acties en het verduidelijken van rollen binnen de organisatie. Hij heeft een adviserende functie richting de directeur en de informatiemanagement­manager en werkt nauw samen met de CIO, enterprise architecten en programmamanagers. Daarnaast gebruikt hij informatiepakketten om prioriteiten te bepalen en stemt hij af welke thema’s per sector het belangrijkst zijn. Zijn werk draait om het verbinden van strategie met de dagelijkse praktijk van informatiemanagement.
+
+
+[[kennismakings profielen]]

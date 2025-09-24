@@ -1,0 +1,3 @@
+GZAC staat voor Generiek Zaakafhandelcomponent en is een open-source softwarecomponent voor gemeenten en andere overheden dat ambtenaren ondersteunt bij het afhandelen van allerlei soorten 'zaken'. Het is een flexibele, procesgestuurde oplossing die werkt binnen het Common Ground principe van losse, component-gebaseerde software. GZAC automatiseert en beheert de taken en acties die nodig zijn voor een zaak, en draagt bij aan een efficiëntere en samenwerkingsgerichte digitale overheid.
+
+[[WoordenBoek]]

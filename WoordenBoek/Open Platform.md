@@ -1,0 +1,3 @@
+Een open platform is een softwareframework gebaseerd op open standaarden en toegankelijke API's (Application Programming Interfaces) dat ontwikkelaars in staat stelt applicaties en diensten te bouwen die naadloos integreren met bestaande systemen.
+
+[[WoordenBoek]]

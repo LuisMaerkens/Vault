@@ -1,0 +1,3 @@
+De ZGW API (Zaak- en Gegevensingebruik API) is een standaard Application Programming Interface (API) voor zaakgericht werken in gemeenten. Het is een bouwsteen binnen het Common Ground programma dat ervoor zorgt dat applicaties gegevens op een gestandaardiseerde, veilige en efficiënte manier kunnen uitwisselen en ontsluiten. Hierdoor kunnen gemeenten regie houden op hun data, verschillende systemen koppelen en hun dienstverlening verbeteren.
+
+[[WoordenBoek]]

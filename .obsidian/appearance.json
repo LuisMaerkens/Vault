@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Border",
+  "accentColor": "#6da7c0",
+  "nativeMenus": false,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "mermaid",
+    "main"
+  ]
+}

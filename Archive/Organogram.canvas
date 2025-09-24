@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"daec06da84d4ec47","type":"link","url":"https://www.sixsigma.nl/wat-is-rpa","x":755,"y":290,"width":460,"height":858},
+		{"id":"5369e7a73c52f665","type":"text","text":"Het RPA-team automatiseert herhalende taken voor de gemeente. Wanneer er bijvoorbeeld een proces is waarbij gegevens telkens handmatig uit een systeem gehaald en ergens anders ingevoerd moeten worden, bekijkt het team of dit geschikt is voor een robot. Daarna bouwen ze de robot en zorgen ze dat het proces automatisch en foutloos verloopt.","x":320,"y":390,"width":320,"height":320},
+		{"id":"c7fd55c2dfa8b303","type":"text","text":"Het DWO (digitale werkomgeving) is er mee bezig om alle apps van bijv. MS 365 te \"bestuderen\" en dan uitleggen te geven en presentaties. of bijvoorbeeld dashboards maken of er over denken hoe je naar nieuwe apps gaat en brainstormen van hoe je zulke dashboards maakt. Het is dus veel na denken en brainstormen.","x":320,"y":-110,"width":320,"height":300},
+		{"id":"18c84f1e16245184","type":"text","text":"zaaksyst. zijn nu bezig met Rex Enterprise voor een deel te vervangen met os programs zoals oz, oip enz. Voor de common ground movement. En intergratie hebben ook een nieuwe aplicatie WeAreFrank! om voor de koppelingen dus bijvoorbeel WAF transformeert een xml file naar json. je zou in theorie ook een RPA robot kunnen gebruiken.","x":-600,"y":90,"width":320,"height":300},
+		{"id":"5d103760e14f936d","type":"text","text":"Team Data","x":-1120,"y":-180,"width":250,"height":60},
+		{"id":"d98f5372d9049855","type":"text","text":"Statistiek en onderz.","x":-1120,"y":-80,"width":250,"height":60},
+		{"id":"bb5e1e483c4c24ce","type":"text","text":"Data science\t","x":-1120,"y":20,"width":250,"height":60},
+		{"id":"4fd16b466edf005e","type":"text","text":"Recordsbeheer","x":-1120,"y":120,"width":250,"height":60},
+		{"id":"65a8d8166023f040","type":"text","text":"Datawarehouse","x":-1120,"y":220,"width":250,"height":60},
+		{"id":"11c122a0eb48a9f6","type":"text","text":"DWO","x":-140,"y":80,"width":250,"height":60},
+		{"id":"fcf079e1f90b8fca","type":"text","text":"Zaaksyst./Intergratie","x":-140,"y":180,"width":250,"height":60},
+		{"id":"5db9769134fc6235","type":"text","text":"RPA","x":-140,"y":280,"width":250,"height":60},
+		{"id":"a89765f9baf06988","type":"text","text":"Gemeenteraad","x":-140,"y":-520,"width":250,"height":60},
+		{"id":"cce19b6ba9895d9b","type":"text","text":"college","x":-140,"y":-420,"width":250,"height":60},
+		{"id":"e29912713732d531","type":"text","text":"gemeente secretaris","x":-140,"y":-320,"width":250,"height":60},
+		{"id":"9f9341138997b2ba","type":"text","text":"ssc","x":-140,"y":-220,"width":250,"height":60},
+		{"id":"04547dc45c90cbc2","type":"text","text":"IM","x":-140,"y":-120,"width":250,"height":60},
+		{"id":"045e4a6d8cdc0e75","type":"text","text":"Innovatie ontw.","x":-140,"y":-20,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0f89ce462029545e","fromNode":"cce19b6ba9895d9b","fromSide":"top","toNode":"a89765f9baf06988","toSide":"bottom","toEnd":"none"},
+		{"id":"be6765c1eb6831d7","fromNode":"e29912713732d531","fromSide":"top","toNode":"cce19b6ba9895d9b","toSide":"bottom","toEnd":"none"},
+		{"id":"b0183b2a5ed27331","fromNode":"9f9341138997b2ba","fromSide":"top","toNode":"e29912713732d531","toSide":"bottom","toEnd":"none"},
+		{"id":"debf555499351de7","fromNode":"04547dc45c90cbc2","fromSide":"top","toNode":"9f9341138997b2ba","toSide":"bottom","toEnd":"none"},
+		{"id":"829db391f2745995","fromNode":"045e4a6d8cdc0e75","fromSide":"top","toNode":"04547dc45c90cbc2","toSide":"bottom","toEnd":"none"},
+		{"id":"2bbf8538ba2451ad","fromNode":"11c122a0eb48a9f6","fromSide":"top","toNode":"045e4a6d8cdc0e75","toSide":"bottom","toEnd":"none"},
+		{"id":"dad9862c3d05f88b","fromNode":"11c122a0eb48a9f6","fromSide":"right","toNode":"c7fd55c2dfa8b303","toSide":"left","toEnd":"none"},
+		{"id":"b3b001a91fd92711","fromNode":"fcf079e1f90b8fca","fromSide":"left","toNode":"18c84f1e16245184","toSide":"right","toEnd":"none"},
+		{"id":"10072ddcd04b01f1","fromNode":"5db9769134fc6235","fromSide":"right","toNode":"5369e7a73c52f665","toSide":"left","toEnd":"none"},
+		{"id":"730fbb8812dfc107","fromNode":"18c84f1e16245184","fromSide":"bottom","toNode":"5369e7a73c52f665","toSide":"left","toEnd":"none"},
+		{"id":"0416697db956be1e","fromNode":"5d103760e14f936d","fromSide":"top","toNode":"9f9341138997b2ba","toSide":"left","toEnd":"none"},
+		{"id":"4fc60d28a4960a1e","fromNode":"d98f5372d9049855","fromSide":"top","toNode":"5d103760e14f936d","toSide":"bottom","toEnd":"none"},
+		{"id":"9df0472d9fe4609f","fromNode":"fcf079e1f90b8fca","fromSide":"top","toNode":"11c122a0eb48a9f6","toSide":"bottom","toEnd":"none"},
+		{"id":"e5daeb099921d01c","fromNode":"5db9769134fc6235","fromSide":"top","toNode":"fcf079e1f90b8fca","toSide":"bottom","toEnd":"none"},
+		{"id":"e3561e173f17f8a8","fromNode":"bb5e1e483c4c24ce","fromSide":"top","toNode":"d98f5372d9049855","toSide":"bottom","toEnd":"none"},
+		{"id":"936ba54d4c508805","fromNode":"4fd16b466edf005e","fromSide":"top","toNode":"bb5e1e483c4c24ce","toSide":"bottom","toEnd":"none"},
+		{"id":"30d6f8cab918ba60","fromNode":"65a8d8166023f040","fromSide":"top","toNode":"4fd16b466edf005e","toSide":"bottom","toEnd":"none"}
+	]
+}

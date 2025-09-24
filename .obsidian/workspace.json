@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Main Workspace.canvas",
+                "viewState": {
+                  "x": 4361.937246515804,
+                  "y": -998.2288207093104,
+                  "zoom": -0.44363530968495296
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Workspace"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e2b9f99d1ef2536",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c5a402873accbd",
+        "type": "tabs",
+        "dimension": 69.40363007778738,
+        "children": [
+          {
+            "id": "8dcbc8ae5a7688d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba3bc68cda84463b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "02f91208b07f1a1d",
+        "type": "tabs",
+        "dimension": 30.596369922212617,
+        "children": [
+          {
+            "id": "d40a2493bb276504",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "395e5014ab64bead",
+    "type": "split",
+    "children": [
+      {
+        "id": "18281fab111cb1f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dade274f4d73c682",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for daily"
+            }
+          },
+          {
+            "id": "0d21b1c92f40cc32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main Workspace.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Main Workspace"
+            }
+          },
+          {
+            "id": "a844f2d051659648",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Main Workspace.canvas",
+                "viewState": {
+                  "x": -1990.973899828157,
+                  "y": 1029.5845690653032,
+                  "zoom": 0.22761047314122868
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Workspace"
+            }
+          },
+          {
+            "id": "d8807e7c65b01f1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "72d491cac99d072b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Generele informatie/Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notes"
+            }
+          },
+          {
+            "id": "54ef01c769b04866",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f3d2bf990fd9e497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3ec982191e5b988",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "brain-dump-mode:Activate Brain Dump Mode": false,
+      "obsidian-custom-frames:Open Calendar": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "2025-09-24.md",
+    "Logboek/Uren.md",
+    "Logboek/18-09-2025.md",
+    "Main Workspace.canvas",
+    "Logboek/17-09-2025.md",
+    "Logboek/16-09-2025.md",
+    "Logboek/15-09-2025.md",
+    "Logboek/12-09-2025.md",
+    "Logboek/19-09-2025.md",
+    "Logboek/22-09-2025.md",
+    "Logboek/24-09-2025.md",
+    "Logboek/23-09-2025.md",
+    "Templates/Logboek Template.md",
+    "Untitled.md",
+    "Templates",
+    "Logboek/01-09-2025.md",
+    "TIMER.md",
+    "Generele informatie/Docker.md",
+    "Generele informatie/REX.md",
+    "Archive/DWO.md",
+    "Generele informatie/IM.md",
+    "Archive/Process Mining.md",
+    "Archive/Tina.md",
+    "Archive/Grafana Mimir.md",
+    "Archive/Zaaksystem.md",
+    "Archive/Azure Devops.md",
+    "Archive/EnableU.md",
+    "Archive/login foto.md",
+    "Archive/Organogram.canvas",
+    "Archive",
+    "fotos/mindmap.png",
+    "fotos/vraagteken.png",
+    "fotos/Logos/Pasted image 20250910150818.png",
+    "fotos/Logos",
+    "fotos/Logos/Pasted image 20250910150744.png",
+    "fotos/Logos/Pasted image 20250910150648.png",
+    "fotos/Logos/Pasted image 20250910150610.png",
+    "fotos/Logos/Pasted image 20250910150551.png",
+    "fotos/Logos/Pasted image 20250910150534.png",
+    "fotos/Logos/Pasted image 20250910150529.png",
+    "fotos/Logos/Pasted image 20250910150449.png",
+    "daily.canvas",
+    "Untitled.base",
+    "kennismakings profielen",
+    "Untitled 1.base",
+    "WoordenBoek",
+    "note",
+    "small topics",
+    "fotos"
+  ]
+}

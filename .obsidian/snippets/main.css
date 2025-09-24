@@ -1,0 +1,7 @@
+body {
+    --bold-color: #6da7c0;
+}
+
+.canvas .inline-title {
+  display: none;
+}

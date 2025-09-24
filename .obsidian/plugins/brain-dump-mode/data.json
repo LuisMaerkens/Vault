@@ -1,0 +1,10 @@
+{
+  "noBackspaceMode": {
+    "enabled": false
+  },
+  "sharkMode": {
+    "enabled": false,
+    "speedGoal": 1000,
+    "tpmWindow": 1000
+  }
+}
