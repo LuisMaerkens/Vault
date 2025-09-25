@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "Logboek/24-09-2025.md",
-      "timestamp": 1758785792815
+      "timestamp": 1758786084744
+    },
+    {
+      "filepath": "Main Workspace.canvas",
+      "timestamp": 1758786081277
     },
     {
       "filepath": "Logboek/Uren.md",
@@ -34,10 +38,6 @@
     {
       "filepath": "Kanban Board/Kanban board.md",
       "timestamp": 1758785138312
-    },
-    {
-      "filepath": "Main Workspace.canvas",
-      "timestamp": 1758785074488
     }
   ],
   "bookmarkedFileStore": [

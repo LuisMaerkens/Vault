@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logboek/Uren.md",
+                "file": "Logboek/24-09-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of 24-09-2025"
             }
           },
           {
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -233,9 +233,10 @@
   },
   "active": "ab15b2ae904753e0",
   "lastOpenFiles": [
+    "Main Workspace.canvas",
+    "Logboek/24-09-2025.md",
     "Logboek/Uren.md",
     "Kanban Board/Kanban board.md",
-    "Main Workspace.canvas",
     "Search.md",
     "Kanban Board/Stage verslag Documentatie.md",
     "TIMER.md",
@@ -250,7 +251,6 @@
     "Logboek/12-09-2025.md",
     "Logboek/19-09-2025.md",
     "Logboek/22-09-2025.md",
-    "Logboek/24-09-2025.md",
     "Logboek/23-09-2025.md",
     "Templates/Logboek Template.md",
     "Templates",
