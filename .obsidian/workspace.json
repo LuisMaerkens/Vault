@@ -11,10 +11,15 @@
             "id": "67335895bccd40b6",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Generele informatie/sneek vergadering.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "sneek vergadering"
             }
           }
         ]
@@ -236,12 +241,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67335895bccd40b6",
+  "active": "d3ec982191e5b988",
   "lastOpenFiles": [
+    "Generele informatie/sneek vergadering.md",
     "Generele informatie/Notes.md",
+    "Main Workspace.canvas",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Kanban Board/Kanban board.md",
-    "Main Workspace.canvas",
     "Kanban Board/Notes/Stage verslag Documentatie.md",
     "fotos/Kanban fotos/image-3.png",
     "fotos/Kanban fotos/image-2.png",
@@ -272,7 +278,6 @@
     "Templates/Logboek Template.md",
     "Templates",
     "Logboek/01-09-2025.md",
-    "Generele informatie/Docker.md",
     "Archive/Organogram.canvas",
     "Archive",
     "fotos/mindmap.png",
