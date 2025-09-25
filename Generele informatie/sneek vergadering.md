@@ -33,3 +33,11 @@ wat is key2dds
 generieke data voorzining
 - data-analyse
 
+api gateway
+- docker server 2
+- 2 gateway
+- in docker wearefrank
+- 1 aan internet 
+- 1 aan diginetwerk
+- wordt intern doorgesluized en dan veder?
+
