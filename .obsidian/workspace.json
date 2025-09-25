@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "ab15b2ae904753e0",
@@ -36,6 +37,7 @@
       {
         "id": "73fd87efe801602f",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "476922f2db155b3c",
@@ -271,7 +273,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8dcbc8ae5a7688d0",
+  "active": "476922f2db155b3c",
   "lastOpenFiles": [
     "Kanban Board/Kanban board.md",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",

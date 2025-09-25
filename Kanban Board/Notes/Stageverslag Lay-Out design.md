@@ -12,3 +12,8 @@ eigenrollen en werkzaamheden 8
 	Stageweek 1 9
 	Stageweek 2 10
 	Stageweek 3 11
+leerdoelen
+Documentatie
+reflectie
+conclusie
+bronnen

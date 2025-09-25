@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Archive  ",
@@ -34,13 +34,6 @@
         "a": 1,
         "rgb": 13479038
       }
-    },
-    {
-      "query": "Path:\"Kanban Board\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6984624
-      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +46,6 @@
   "repelStrength": 12.4479166666667,
   "linkStrength": 0.908854166666667,
   "linkDistance": 30,
-  "scale": 1.7404978230765855,
+  "scale": 0.09895430218636525,
   "close": true
 }
