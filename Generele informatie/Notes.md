@@ -118,7 +118,7 @@ Link:
 
 https://l-a-asr-1000:8443/opentunnel/config/system/synchronization
 
-
+https://l-a-asr-1000:8443/opentunnel/runtime/ui
 
 
 
