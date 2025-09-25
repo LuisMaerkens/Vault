@@ -41,3 +41,23 @@ api gateway
 - 1 aan diginetwerk
 - wordt intern doorgesluized en dan veder?
 
+wat zijn saasomgeving datadumps geen auth? 
+
+wat is pentho
+
+haalcentraal
+
+BRP verbinding?
+
+CLO koppeling?
+
+pinkroccade
+
+grafityforms
+
+Iv woz
+
+kijk es naar postman. zet in sidequest in kanban board
+
+wat is dds? 
+
