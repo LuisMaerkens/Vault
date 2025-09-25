@@ -11,24 +11,10 @@
             "id": "ab15b2ae904753e0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban Board/Kanban board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban board"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -169,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Board/Kanban board.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kanban board"
+              "title": "Outline"
             }
           },
           {
@@ -240,10 +225,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab15b2ae904753e0",
+  "active": "8dcbc8ae5a7688d0",
   "lastOpenFiles": [
-    "Main Workspace.canvas",
     "Kanban Board/Kanban board.md",
+    "Main Workspace.canvas",
     "Kanban Board/Notes/Stage verslag Documentatie.md",
     "fotos/Kanban fotos/image-3.png",
     "fotos/Kanban fotos/image-2.png",
@@ -255,7 +240,7 @@
     "Kanban Board/Notes",
     "Kanban Board/Notes/Stageverslag week 2.md",
     "Kanban Board/Notes/Stageverslag week 1 tot 4.md",
-    "Voorwordt Eigen rol een werkzaamheden.md",
+    "Kanban Board/Notes/Voorwordt Eigen rol een werkzaamheden.md",
     "Logboek/Uren.md",
     "Logboek/24-09-2025.md",
     "Search.md",
