@@ -20,6 +20,7 @@ kanban-plugin: board
 ## Doing
 
 - [ ] [[Stageverslag week 3]]
+- [ ] [[Stageverslag Lay-Out design]]
 
 
 ## On Hold
