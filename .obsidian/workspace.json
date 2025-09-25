@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73fd87efe801602f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "67335895bccd40b6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -130,8 +130,8 @@
               "state": {
                 "file": "Main Workspace.canvas",
                 "viewState": {
-                  "x": -1996.098189483099,
-                  "y": 1017.6278932037721,
+                  "x": -1990.973899828157,
+                  "y": 1029.5845690653032,
                   "zoom": 0.22761047314122868
                 }
               },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generele informatie/Notes.md",
+                "file": "Logboek/Uren.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,29 +178,9 @@
               "icon": "lucide-ghost",
               "title": "mermaid-toolbar-view"
             }
-          },
-          {
-            "id": "0299e379585fd04a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "81a3655b31cf7177",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -222,13 +202,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "brain-dump-mode:Activate Brain Dump Mode": false,
       "obsidian-custom-frames:Open Calendar": false,
       "switcher:Open quick switcher": false,
@@ -237,15 +219,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3ec982191e5b988",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Generele informatie/sneek vergadering.md",
-    "Generele informatie/Notes.md",
     "Main Workspace.canvas",
+    "Generele informatie/Notes.md",
+    "Generele informatie/sneek vergadering.md",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Kanban Board/Kanban board.md",
     "Kanban Board/Notes/Stage verslag Documentatie.md",
@@ -277,7 +258,6 @@
     "Logboek/23-09-2025.md",
     "Templates/Logboek Template.md",
     "Templates",
-    "Logboek/01-09-2025.md",
     "Archive/Organogram.canvas",
     "Archive",
     "fotos/mindmap.png",
