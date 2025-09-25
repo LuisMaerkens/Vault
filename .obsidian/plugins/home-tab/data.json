@@ -1,0 +1,52 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 3,
+  "iconColorType": "default",
+  "wordmark": "WELKOM LUIS",
+  "customFont": "textFont",
+  "fontSize": "8em",
+  "fontColorType": "accentColor",
+  "fontWeight": 900,
+  "maxResults": 10,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "accentColor",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Kanban Board/Kanban board.md",
+      "timestamp": 1758785138312
+    },
+    {
+      "filepath": "Main Workspace.canvas",
+      "timestamp": 1758785074488
+    }
+  ],
+  "bookmarkedFileStore": [
+    {
+      "filepath": "Main Workspace.canvas"
+    },
+    {
+      "filepath": "Generele informatie/Notes.md"
+    },
+    {
+      "filepath": "Kanban Board/Kanban board.md"
+    }
+  ],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true
+}

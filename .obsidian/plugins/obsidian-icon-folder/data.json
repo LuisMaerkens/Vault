@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMap",
       "LiCamera",
       "LiNotebook",
       "LiBookA",
@@ -36,5 +37,6 @@
   },
   "WoordenBoek": "LiBookA",
   "Archive/Vragen.md": "LiFileQuestion",
-  "fotos": "LiCamera"
+  "fotos": "LiCamera",
+  "Main Workspace.canvas": "LiMap"
 }
