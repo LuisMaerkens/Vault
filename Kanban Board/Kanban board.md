@@ -31,8 +31,8 @@ kanban-plugin: board
 
 ## Checking
 
-- [ ] Stageverslag week 2
-- [ ] Stageverslag week 1
+- [ ] [[Stageverslag week 2]]
+- [ ] [[Stageverslag week 1]]
 - [ ] [[Stageverslag week 1 tot 4]]
 - [ ] [[Voorwordt Eigen rol een werkzaamheden]]
 
