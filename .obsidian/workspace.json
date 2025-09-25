@@ -11,17 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": -1951.5644143457334,
-                  "y": 860.2346201439093,
-                  "zoom": 1
-                }
+                "file": "Search.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
+              "icon": "lucide-file",
+              "title": "Search"
             }
           }
         ]
@@ -226,13 +224,13 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Main Workspace.canvas",
+    "Search.md",
     "Kanban Board/Kanban board.md",
     "Kanban Board/Stage verslag Documentatie.md",
     "TIMER.md",
     "Kanban Board",
     "Archive/login foto.md",
     "Generele informatie/Notes.md",
-    "Search.md",
     "Logboek/Uren.md",
     "2025-09-24.md",
     "Logboek/18-09-2025.md",
