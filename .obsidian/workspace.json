@@ -4,54 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "ab15b2ae904753e0",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban Board/Kanban board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban board"
-            }
-          }
-        ]
-      },
-      {
         "id": "73fd87efe801602f",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "476922f2db155b3c",
+            "id": "67335895bccd40b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generele informatie/Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -273,8 +236,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "476922f2db155b3c",
+  "active": "67335895bccd40b6",
   "lastOpenFiles": [
+    "Generele informatie/Notes.md",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Kanban Board/Kanban board.md",
     "Main Workspace.canvas",
@@ -296,7 +260,6 @@
     "TIMER.md",
     "Kanban Board",
     "Archive/login foto.md",
-    "Generele informatie/Notes.md",
     "2025-09-24.md",
     "Logboek/18-09-2025.md",
     "Logboek/17-09-2025.md",
