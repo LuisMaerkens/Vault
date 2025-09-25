@@ -11,15 +11,45 @@
             "id": "ab15b2ae904753e0",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban Board/Kanban board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban board"
+            }
+          }
+        ]
+      },
+      {
+        "id": "22da59128535fabd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9951383f4d86774e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Logboek/Uren.md",
+                "file": "Stageverslag week 1 tot 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Uren"
+              "title": "Stageverslag week 1 tot 4"
             }
           }
         ]
@@ -160,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logboek/Uren.md",
+                "file": "Stageverslag week 1 tot 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Uren"
+              "title": "Outline of Stageverslag week 1 tot 4"
             }
           },
           {
@@ -231,14 +261,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0299e379585fd04a",
+  "active": "9951383f4d86774e",
   "lastOpenFiles": [
+    "image-1.png",
+    "image.png",
+    "Kanban Board/Kanban board.md",
+    "Stageverslag week 1 tot 4.md",
+    "Stageverslag week 3.md",
+    "Voorwordt Eigen rol een werkzaamheden.md",
+    "Kanban Board/Stage verslag Documentatie.md",
+    "Logboek/Uren.md",
     "Logboek/24-09-2025.md",
     "Main Workspace.canvas",
-    "Logboek/Uren.md",
-    "Kanban Board/Kanban board.md",
     "Search.md",
-    "Kanban Board/Stage verslag Documentatie.md",
     "TIMER.md",
     "Kanban Board",
     "Archive/login foto.md",
@@ -258,9 +293,6 @@
     "Generele informatie/Docker.md",
     "Generele informatie/REX.md",
     "Archive/DWO.md",
-    "Generele informatie/IM.md",
-    "Archive/Process Mining.md",
-    "Archive/Tina.md",
     "Archive/Organogram.canvas",
     "Archive",
     "fotos/mindmap.png",
@@ -273,7 +305,6 @@
     "fotos/Logos/Pasted image 20250910150551.png",
     "fotos/Logos/Pasted image 20250910150534.png",
     "fotos/Logos/Pasted image 20250910150529.png",
-    "fotos/Logos/Pasted image 20250910150449.png",
     "daily.canvas",
     "Untitled.base",
     "kennismakings profielen",

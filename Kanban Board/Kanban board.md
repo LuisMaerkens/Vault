@@ -19,7 +19,7 @@ kanban-plugin: board
 
 ## Doing
 
-- [ ] Stage verslag week 3
+- [ ] [[Stageverslag week 3]]
 
 
 ## On Hold
@@ -27,6 +27,14 @@ kanban-plugin: board
 - [ ] Bruno Research
 - [ ] WAF verdiepen
 - [ ] MS365 research
+
+
+## Checking
+
+- [ ] Stageverslag week 2
+- [ ] Stageverslag week 1
+- [ ] [[Stageverslag week 1 tot 4]]
+- [ ] [[Voorwordt Eigen rol een werkzaamheden]]
 
 
 ## Done
@@ -41,6 +49,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
 ```
 %%

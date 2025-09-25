@@ -1,0 +1,3 @@
+Mijn eigen rol een werkzaamheden binnen gemeente Leeuwarden ga ik toelichten aan de hand van een **chronologische structuur**. Zoals bij hoofdstuk Documentatie wordt verteld, heb ik mijn werkzaamheden binnen gemeente Leeuwarden bijgehouden binnen obsidian.
+
+Ik heb me bij gemeente Leeuwarden naast mijn keerdoelen ook bezig gehouden me kleinere persoonlijke opdrachten waar ik zelf meer wilde leren en mee bezig wilde die ook heel interessant waren.
