@@ -21,6 +21,8 @@ is Haven een opensource docker container?
 
 azure haven
 
+haven cluster???
+
 WeAreFrank! x Open zaak
 
 centric
@@ -55,9 +57,16 @@ pinkroccade
 
 grafityforms
 
-Iv woz
+lv woz
 
 kijk es naar postman. zet in sidequest in kanban board
 
 wat is dds? 
 
+frankgateway
+- plugin???
+- plugin maken????
+
+afana/gafana?
+
+ 
