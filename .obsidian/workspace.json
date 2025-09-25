@@ -11,23 +11,15 @@
             "id": "ab15b2ae904753e0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Board/Kanban board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Logboek/24-09-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban board"
+              "icon": "lucide-file",
+              "title": "24-09-2025"
             }
           }
         ]
@@ -186,9 +178,19 @@
               "icon": "lucide-ghost",
               "title": "mermaid-toolbar-view"
             }
+          },
+          {
+            "id": "0299e379585fd04a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -225,20 +227,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "ab15b2ae904753e0",
   "lastOpenFiles": [
+    "Logboek/Uren.md",
+    "Kanban Board/Kanban board.md",
     "Main Workspace.canvas",
     "Search.md",
-    "Kanban Board/Kanban board.md",
     "Kanban Board/Stage verslag Documentatie.md",
     "TIMER.md",
     "Kanban Board",
     "Archive/login foto.md",
     "Generele informatie/Notes.md",
-    "Logboek/Uren.md",
     "2025-09-24.md",
     "Logboek/18-09-2025.md",
     "Logboek/17-09-2025.md",
