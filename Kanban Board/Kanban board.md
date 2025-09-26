@@ -6,6 +6,9 @@ kanban-plugin: board
 
 ## Side Quest
 
+- [ ] appenkooi
+- [ ] obsidian new vault linken met andere laptop
+- [ ] en tellefoon
 
 
 ## To-Do
@@ -15,6 +18,7 @@ kanban-plugin: board
 - [ ] Stage verslag bronnen
 - [ ] [[Stage verslag Documentatie]]
 - [ ] wordenboek orgeniseren
+- [ ] Documentatie sneek bekijken
 
 
 ## Doing
