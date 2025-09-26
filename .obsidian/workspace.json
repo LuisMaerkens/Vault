@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "845ee37892dd37d1",
+            "id": "766be80a3ca7495e",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -118,23 +118,6 @@
             }
           },
           {
-            "id": "a844f2d051659648",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": -1990.973899828157,
-                  "y": 1029.5845690653032,
-                  "zoom": 0.22761047314122868
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
-            }
-          },
-          {
             "id": "d8807e7c65b01f1d",
             "type": "leaf",
             "state": {
@@ -175,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -217,12 +200,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "845ee37892dd37d1",
+  "active": "766be80a3ca7495e",
   "lastOpenFiles": [
+    "Main Workspace.canvas",
     "Generele informatie/sneek vergadering.md",
     "Untitled.md",
     "Generele informatie/Notes.md",
-    "Main Workspace.canvas",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Kanban Board/Kanban board.md",
     "Kanban Board/Notes/Stage verslag Documentatie.md",
@@ -252,7 +235,6 @@
     "Logboek/19-09-2025.md",
     "Logboek/22-09-2025.md",
     "Logboek/23-09-2025.md",
-    "Templates/Logboek Template.md",
     "Templates",
     "Archive/Organogram.canvas",
     "Archive",
