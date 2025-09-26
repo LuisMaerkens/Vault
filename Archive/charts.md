@@ -36,3 +36,44 @@
 ```
 
 
+```mermaid
+flowchart TB
+    Gemeentesecretaris["Gemeentesecretaris (Algemeen Directeur)"]
+    Gemeenteraad["Gemeenteraad"]
+    B&W["College van B&W"]
+    Directieteam["Directieteam"]
+
+    %% Domeinen
+    SociaalDomein["Sociaal Domein"]
+    FysiekDomein["Fysiek Domein"]
+    Veiligheidsdomein["Veiligheidsdomein"]
+    SSC["Shared Service Centrum (SSC)"]
+    PubliekeDienstverlening["Publieke Dienstverlening"]
+    SDF["Sociaal Domein Fryslân (SDF)"]
+    Concern["Concern"]
+
+    %% Structuur
+    Gemeentesecretaris -->|Leiding| Directieteam
+    Directieteam -->|Bestuurlijke afstemming| B&W
+    B&W -->|Beleid en uitvoering| Gemeentesecretaris
+    Gemeentesecretaris --> SociaalDomein
+    Gemeentesecretaris --> FysiekDomein
+    Gemeentesecretaris --> Veiligheidsdomein
+    Gemeentesecretaris --> SSC
+    Gemeentesecretaris --> PubliekeDienstverlening
+    Gemeentesecretaris --> SDF
+    Gemeentesecretaris --> Concern
+
+    %% Domeinstructuur
+    SociaalDomein -->|Beleid en uitvoering| SociaalDomein
+    FysiekDomein -->|Beleid en uitvoering| FysiekDomein
+    Veiligheidsdomein -->|Beleid en uitvoering| Veiligheidsdomein
+    SSC -->|Ondersteuning| SSC
+    PubliekeDienstverlening -->|Dienstverlening| PubliekeDienstverlening
+    SDF -->|Regionale samenwerking| SDF
+    Concern -->|Ondersteuning| Concern
+
+```
+
+
+
