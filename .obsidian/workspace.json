@@ -8,27 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "766be80a3ca7495e",
+            "id": "c4bda6841140301b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban Board/Kanban board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban board"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -132,6 +118,23 @@
             }
           },
           {
+            "id": "a844f2d051659648",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Main Workspace.canvas",
+                "viewState": {
+                  "x": -1990.973899828157,
+                  "y": 1029.5845690653032,
+                  "zoom": 0.22761047314122868
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Workspace"
+            }
+          },
+          {
             "id": "d8807e7c65b01f1d",
             "type": "leaf",
             "state": {
@@ -152,27 +155,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Board/Kanban board.md",
+                "file": "Logboek/Uren.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kanban board"
+              "title": "Outline of Notes"
             }
           },
           {
-            "id": "58270f704bcf90aa",
+            "id": "54ef01c769b04866",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -194,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,19 +214,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "workspaces:Manage workspace layouts": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "766be80a3ca7495e",
+  "active": "c4bda6841140301b",
   "lastOpenFiles": [
+    "Generele informatie/Notes.md",
+    "Main Workspace.canvas",
+    "Kanban Board/Kanban board.md",
     "Archive/charts.md",
     "Generele informatie/sneek vergadering.md",
-    "Main Workspace.canvas",
     "Untitled.md",
-    "Generele informatie/Notes.md",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
-    "Kanban Board/Kanban board.md",
     "Kanban Board/Notes/Stage verslag Documentatie.md",
     "fotos/Kanban fotos/image-3.png",
     "fotos/Kanban fotos/image-2.png",
@@ -249,7 +253,6 @@
     "Logboek/12-09-2025.md",
     "Logboek/19-09-2025.md",
     "Logboek/22-09-2025.md",
-    "Logboek/23-09-2025.md",
     "Templates",
     "Archive/Organogram.canvas",
     "Archive",
