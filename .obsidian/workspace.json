@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logboek/Uren.md",
+                "file": "Generele informatie/sneek vergadering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Uren"
+              "title": "sneek vergadering"
             }
           }
         ]
@@ -130,8 +130,8 @@
               "state": {
                 "file": "Main Workspace.canvas",
                 "viewState": {
-                  "x": -1990.973899828157,
-                  "y": 1029.5845690653032,
+                  "x": -2001.4147110304434,
+                  "y": 1025.8317513216778,
                   "zoom": 0.22761047314122868
                 }
               },
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -232,7 +232,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bd44407f02f8c63d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Main Workspace.canvas",
     "Logboek/Uren.md",

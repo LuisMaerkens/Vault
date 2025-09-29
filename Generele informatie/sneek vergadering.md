@@ -60,9 +60,6 @@ afana/gafana?
 - **Atlas GeoViewer**  
     “GeoViewer” duidt op een kaart- of geografische viewer. Atlas GeoViewer kan een GIS-component zijn die kaarten laat zien, ruimtelijke data visualiseert op een kaartlaag.
     
-- **ShockMedia – hosting**  
-    ShockMedia kan een hostingpartij zijn (webhosting, cloudinfrastructuur). Hosting in dit verband betekent dat zij servers en infrastructuur leveren waarop applicaties draaien.
-    
 - **Haven**  
     Je vraag: is dit Yours “Haven”? Volgens GitHub: “Haven is an open source Docker container management system.” [GitHub](https://github.com/codeabovelab/haven-platform?utm_source=chatgpt.com)  
     Dus ja — het is open source en je kunt het inzetten als container-management platform.
