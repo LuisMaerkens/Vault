@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generele informatie/Notes.md",
+                "file": "vergadering naming.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "vergadering naming"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "395e5014ab64bead",
@@ -130,8 +131,8 @@
               "state": {
                 "file": "Main Workspace.canvas",
                 "viewState": {
-                  "x": -2001.4147110304434,
-                  "y": 1025.8317513216778,
+                  "x": -1990.973899828157,
+                  "y": 1029.5845690653032,
                   "zoom": 0.22761047314122868
                 }
               },
@@ -178,16 +179,6 @@
               "icon": "lucide-ghost",
               "title": "mermaid-toolbar-view"
             }
-          },
-          {
-            "id": "bd44407f02f8c63d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
         "currentTab": 2
@@ -212,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,9 +224,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3ec982191e5b988",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Generele informatie/Notes.md",
+    "vergadering naming.md",
     "Generele informatie/sneek vergadering.md",
     "Main Workspace.canvas",
     "Logboek/Uren.md",

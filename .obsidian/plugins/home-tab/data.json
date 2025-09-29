@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "vergadering naming.md",
+      "timestamp": 1759136085687
+    },
+    {
       "filepath": "Generele informatie/Notes.md",
-      "timestamp": 1759135191533
+      "timestamp": 1759136070933
     },
     {
       "filepath": "Generele informatie/sneek vergadering.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Logboek/Uren.md",
       "timestamp": 1759132793246
-    },
-    {
-      "filepath": "Logboek/26-09-2025.md",
-      "timestamp": 1759132450936
     }
   ],
   "bookmarkedFileStore": [
