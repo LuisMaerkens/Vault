@@ -219,7 +219,7 @@
 		{"id":"582a938aa90541b3","type":"text","text":"**Task Management and Project Works** helpt bij het plannen, organiseren en volgen van taken en projecten. **Task Management** zorgt ervoor dat individuele taken overzichtelijk worden toegewezen en gevolgd. **Project Works** biedt tools voor samenwerking, deadlines en voortgangsrapportage. Samen maken **Task Management and Project Works** het werk efficiënter en beter beheersbaar voor teams.","x":-3600,"y":-575,"width":438,"height":226},
 		{"id":"50dcca012d393a10","type":"text","text":"Collaboration","x":-3873,"y":-259,"width":250,"height":60},
 		{"id":"97ee088a75edae86","type":"text","text":"SharePoint","x":-3287,"y":-229,"width":250,"height":60},
-		{"id":"231321a83b22e3e8","x":-3342,"y":-4069,"width":1362,"height":489,"type":"text","text":"```mermaid\ngantt\n    title Task Schedule\n    dateFormat YYYY-MM-DD\n    \n    week 1 : 2025-09-01, 5d\n    week 2 : 2025-09-08, 5d\n\n```\n"}
+		{"id":"231321a83b22e3e8","x":-3342,"y":-4069,"width":1362,"height":489,"type":"text","text":"```mermaid\ngantt\n    title Stage Gantt chart\n    dateFormat YYYY-MM-DD\n    excludes weekends\n\n    Week 1 : 2025-09-01, 5d\n    week 2 : 2025-09-08, 5d\n    week 3 : 2025-09-15, 5d\n    sub week 3 : 2025-09-15, 2d\n\n```\n"}
 	],
 	"edges":[
 		{"id":"efc8c33647e39ef3","fromNode":"58b5b435da083b49","fromSide":"top","toNode":"6d8eaecac202bc3d","toSide":"bottom","toEnd":"none"},
