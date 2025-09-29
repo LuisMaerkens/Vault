@@ -7,8 +7,9 @@ kanban-plugin: board
 ## Side Quest
 
 - [ ] appenkooi
-- [ ] obsidian new vault linken met andere laptop
-- [ ] en tellefoon
+- [ ] obsidian vault linken met laptop
+- [ ] obsidian vault linken met telefoon
+- [ ] postman
 
 
 ## To-Do
