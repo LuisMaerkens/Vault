@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generele informatie/sneek vergadering.md",
+                "file": "Generele informatie/Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "sneek vergadering"
+              "title": "Notes"
             }
           }
         ]
@@ -234,6 +234,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Generele informatie/sneek vergadering.md",
     "Main Workspace.canvas",
     "Logboek/Uren.md",
     "Logboek/26-09-2025.md",
@@ -241,7 +242,6 @@
     "Logboek/24-09-2025.md",
     "Generele informatie/ssc.md",
     "Generele informatie/IM.md",
-    "Generele informatie/sneek vergadering.md",
     "WoordenBoek/(LV,BV) WOZ.md",
     "Kanban Board/Kanban board.md",
     "moeten gevraagt worden.md",
