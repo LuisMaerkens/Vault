@@ -8,27 +8,11 @@ is Haven een opensource docker container?
 
 azure haven
 
-centric
-
-centric connect
-
 wat is key2dds
-
-
-generieke data voorzining
-- data-analyse
-
-api gateway
-- docker server 2
-- 2 gateway
-- in docker wearefrank
-- 1 aan internet 
-- 1 aan diginetwerk
-- wordt intern doorgesluized en dan veder?
 
 wat zijn saasomgeving datadumps geen auth? 
 
-wat is pentho
+saasomgeving heeft ets te maken met have?
 
 haalcentraal
 

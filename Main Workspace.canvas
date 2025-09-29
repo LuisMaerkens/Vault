@@ -59,7 +59,6 @@
 		{"id":"e8b0d71e29f6fb72","type":"text","text":"RPA","x":-1396,"y":-264,"width":250,"height":60},
 		{"id":"58b5b435da083b49","type":"text","text":"college","x":-1396,"y":-964,"width":250,"height":60},
 		{"id":"b37dd9e80258873c","type":"text","text":"<h1 style=\"text-align:center; font-weight: bold; color: #6da7c0;\">DAILY</h1>","x":-2140,"y":820,"width":280,"height":50},
-		{"id":"461ee245b29fd74a","type":"text","text":"1. Middag naar Sneek.\n2. check notes en vergradeing sneek notes\n\n","x":-2140,"y":870,"width":280,"height":330},
 		{"id":"6d8eaecac202bc3d","type":"text","text":"Gemeenteraad","x":-1396,"y":-1064,"width":250,"height":60},
 		{"id":"02c3c5f5522f91d3","type":"text","text":"we**are**frank**!** ","x":-1680,"y":-2320,"width":250,"height":60},
 		{"id":"8427ed5b4a4a64c6","type":"file","file":"fotos/mindmap.png","x":-1260,"y":-2370,"width":267,"height":400},
@@ -218,7 +217,8 @@
 		{"id":"bd347ecee545a589","type":"text","text":"Het **Power Platform** van Microsoft is een verzameling tools voor data-analyse, automatisering, app-ontwikkeling en chatbots. Het bestaat uit **Power BI** (data-analyse), **Power Apps** (app-bouw), **Power Automate** (processen automatiseren) en **Power Virtual Agents** (chatbots maken). De kern is **low-code**, waardoor ook niet-programmeurs snel oplossingen kunnen bouwen. Data wordt vaak beheerd in **Dataverse** en kan gekoppeld worden aan honderden databronnen. Het platform integreert naadloos met **Microsoft 365, Dynamics 365 en Azure**.","x":-4596,"y":-349,"width":412,"height":300},
 		{"id":"b76cf9972ca82c68","type":"text","text":"Teams","x":-4061,"y":77,"width":250,"height":60},
 		{"id":"b7bf6293269e5d52","type":"text","text":"Forms","x":-3446,"y":-13,"width":250,"height":60},
-		{"id":"50dcca012d393a10","type":"text","text":"Collaboration","x":-3873,"y":-259,"width":250,"height":60}
+		{"id":"50dcca012d393a10","type":"text","text":"Collaboration","x":-3873,"y":-259,"width":250,"height":60},
+		{"id":"461ee245b29fd74a","type":"text","text":"1. Middag naar Sneek.\n2. check notes en vergradeing sneek notes\n3. leesrecht productie\n\n","x":-2140,"y":870,"width":280,"height":330}
 	],
 	"edges":[
 		{"id":"efc8c33647e39ef3","fromNode":"58b5b435da083b49","fromSide":"top","toNode":"6d8eaecac202bc3d","toSide":"bottom","toEnd":"none"},
