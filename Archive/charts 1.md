@@ -66,5 +66,17 @@ options:
 
 
 
+```mermaid
+gantt
+    title A Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Section
+    A task           :a1, 2025-09-29, 40d
+    Another task     :after 2025-09-29, 20d
+
+```
+
+
+
 
 

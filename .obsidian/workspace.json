@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/charts 1.md",
+                "file": "Generele informatie/Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "charts 1"
+              "title": "Notes"
             }
           }
         ]
@@ -235,6 +235,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Archive/charts 1.md",
+    "Archive/charts.md",
     "moeten gevraagt worden.md",
     "Main Workspace.canvas",
     "Generele informatie/Notes.md",
@@ -250,7 +252,6 @@
     "WoordenBoek/(LV,BV) WOZ.md",
     "Kanban Board/Kanban board.md",
     "kennismakings profielen.md",
-    "Archive/charts.md",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Kanban Board/Notes/Stage verslag Documentatie.md",
     "fotos/Kanban fotos/image-3.png",
