@@ -15,9 +15,9 @@
               "state": {
                 "file": "Main Workspace.canvas",
                 "viewState": {
-                  "x": -2699.779427774909,
-                  "y": -3890.084754811633,
-                  "zoom": -0.3333333333333334
+                  "x": -2354.6636088609357,
+                  "y": -3513.7947674651327,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -222,14 +222,31 @@
       "bases:Create new base": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "workspaces:Manage workspace layouts": false,
-      "smart-gantt:Smart Gantt": false
+      "smart-gantt:Smart Gantt": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Archive/Vragen.md",
-    "Generele informatie.md",
     "Main Workspace.canvas",
+    "copilot/desktop.ini",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Generele informatie.md",
     "Generele informatie/Notes.md",
     "Archive/charts 1.md",
     "Archive/charts.md",
@@ -240,25 +257,12 @@
     "Logboek/26-09-2025.md",
     "Logboek/25-09-2025.md",
     "Logboek/24-09-2025.md",
-    "Generele informatie/ssc.md",
-    "Generele informatie/IM.md",
-    "WoordenBoek/(LV,BV) WOZ.md",
-    "Kanban Board/Kanban board.md",
-    "kennismakings profielen.md",
-    "Kanban Board/Notes/Stageverslag Lay-Out design.md",
-    "Kanban Board/Notes/Stage verslag Documentatie.md",
     "fotos/Kanban fotos/image-3.png",
     "fotos/Kanban fotos/image-2.png",
     "fotos/Kanban fotos/image-1.png",
     "fotos/Kanban fotos/image.png",
     "fotos/Kanban fotos",
-    "Kanban Board/Notes/Stageverslag week 3.md",
-    "Kanban Board/Notes/Stageverslag week 1.md",
     "Kanban Board/Notes",
-    "Kanban Board/Notes/Stageverslag week 2.md",
-    "Kanban Board/Notes/Stageverslag week 1 tot 4.md",
-    "Kanban Board/Notes/Voorwordt Eigen rol een werkzaamheden.md",
-    "Search.md",
     "Kanban Board",
     "Templates",
     "Archive/Organogram.canvas",
@@ -271,9 +275,6 @@
     "fotos/Logos/Pasted image 20250910150648.png",
     "fotos/Logos/Pasted image 20250910150610.png",
     "daily.canvas",
-    "Untitled.base",
-    "kennismakings profielen",
-    "Untitled 1.base",
-    "WoordenBoek"
+    "Untitled.base"
   ]
 }
