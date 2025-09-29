@@ -22,7 +22,12 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Main Workspace.canvas",
+      "timestamp": 1759150208605
+    }
+  ],
   "bookmarkedFileStore": [
     {
       "filepath": "Main Workspace.canvas"

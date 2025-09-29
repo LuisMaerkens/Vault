@@ -11,10 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "canvas",
+              "state": {
+                "file": "Main Workspace.canvas",
+                "viewState": {
+                  "x": -2419.364597734345,
+                  "y": -3349.7872846365062,
+                  "zoom": -1.6103019763516195
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Workspace"
             }
           }
         ]
