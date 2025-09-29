@@ -1,29 +1,12 @@
-synaxion
-
-corsa
-
-ik weet nog steeds precies wat open zaak is
+synaxion [Synaxion](https://synaxion.com/)
 
 wat is suites?
 
 altlas geoviewer
 
-shockmedia - hosting
-
-wat is Haven
-is dit Haven: [Haven reddit](https://www.reddit.com/r/selfhosted/comments/1htsojh/trying_to_get_a_dockercompose_and_umbrelapp_for/)
-
 is Haven een opensource docker container?
 
 azure haven
-
-haven cluster???
-
-haven pushen en pullen???
-
-
-
-WeAreFrank! x Open zaak
 
 centric
 
