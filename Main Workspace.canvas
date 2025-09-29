@@ -218,7 +218,7 @@
 		{"id":"b76cf9972ca82c68","type":"text","text":"Teams","x":-4061,"y":77,"width":250,"height":60},
 		{"id":"b7bf6293269e5d52","type":"text","text":"Forms","x":-3446,"y":-13,"width":250,"height":60},
 		{"id":"50dcca012d393a10","type":"text","text":"Collaboration","x":-3873,"y":-259,"width":250,"height":60},
-		{"id":"461ee245b29fd74a","type":"text","text":"1. Middag naar Sneek.\n2. check notes en vergradeing sneek notes\n3. leesrecht productie\n\n","x":-2140,"y":870,"width":280,"height":330}
+		{"id":"461ee245b29fd74a","type":"text","text":"1. check notes en vergradering sneek notes\n2. leesrecht productie\n\n","x":-2140,"y":870,"width":280,"height":330}
 	],
 	"edges":[
 		{"id":"efc8c33647e39ef3","fromNode":"58b5b435da083b49","fromSide":"top","toNode":"6d8eaecac202bc3d","toSide":"bottom","toEnd":"none"},
