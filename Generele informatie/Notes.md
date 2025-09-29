@@ -137,19 +137,6 @@ https://l-a-asr-1000:8443/opentunnel/runtime/ui
 
 
 
-hanae
-
-hallo ik ben Luis
-
-Ik ga naar werk op maandag
-
-Ik ben super slim en Ellie ook
-ik ga morgen niet naar werke en ook nergens anders naartoe
-
-
-
-
-
 
 
 
