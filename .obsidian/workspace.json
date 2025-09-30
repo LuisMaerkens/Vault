@@ -26,15 +26,17 @@
             "id": "0d244dfe3e98e560",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Generele informatie/Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Main Workspace.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -1460,
+                  "zoom": -3.4437565496565266
+                }
               },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Workspace"
             }
           }
         ],
@@ -146,9 +148,9 @@
               "state": {
                 "file": "Main Workspace.canvas",
                 "viewState": {
-                  "x": -1990.973899828157,
-                  "y": 1029.5845690653032,
-                  "zoom": 0.22761047314122868
+                  "x": -1996.8126616964992,
+                  "y": 1018.8316892435057,
+                  "zoom": 0.33333333333333365
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -240,10 +242,12 @@
   },
   "active": "0d244dfe3e98e560",
   "lastOpenFiles": [
+    "Archive/Kubernetes.md",
+    "Main Workspace.canvas",
+    "Generele informatie/Notes.md",
     "Archive/sneek vergadering.md",
     "Archive/synaxion.md",
     "WoordenBoek/DDS.md",
-    "Main Workspace.canvas",
     "Generele informatie/REX.md",
     "Archive/Grafana Labs.md",
     "Kanban Board/Kanban board.md",
@@ -253,7 +257,6 @@
     "WoordenBoek/BRP koppeling.md",
     "Search.md",
     "TIMER.md",
-    "Generele informatie/Notes.md",
     "Kanban Board/Notes/Stage verslag Documentatie.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
@@ -266,8 +269,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "fotos/Kanban fotos/image-3.png",
