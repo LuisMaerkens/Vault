@@ -21,6 +21,9 @@ opschrijven hoe veel en voor wie de koppelingen zijn
 
 stuff berichten xml
 
+# gateway/framework verschil
+
+
 
 | A   | uur |
 | --- | --- |
