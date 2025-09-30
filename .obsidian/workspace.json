@@ -8,18 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73e629081e03cc56",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "TIMER.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Main Workspace.canvas",
+                "viewState": {
+                  "x": -50.5,
+                  "y": -1460,
+                  "zoom": -3.4436353096849532
+                }
               },
-              "icon": "lucide-file",
-              "title": "TIMER"
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Workspace"
             }
           }
         ]
@@ -202,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,8 +224,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "73e629081e03cc56",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "TIMER.md",
     "Main Workspace.canvas",
     "Generele informatie/Notes.md",
     "Kanban Board/Kanban board.md",
