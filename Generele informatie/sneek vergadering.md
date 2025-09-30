@@ -1,4 +1,3 @@
-synaxion [Synaxion](https://synaxion.com/)
 
 wat is suites?
 
@@ -14,11 +13,7 @@ wat zijn saasomgeving datadumps geen auth?
 
 saasomgeving heeft its te maken met haven?
 
-pinkroccade
 
-grafityforms
-
-wat is dds? 
 
 
 
