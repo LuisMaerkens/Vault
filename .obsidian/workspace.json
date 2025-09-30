@@ -26,10 +26,17 @@
             "id": "0d244dfe3e98e560",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Main Workspace.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -1460,
+                  "zoom": -3.4437565496565266
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Workspace"
             }
           }
         ],
