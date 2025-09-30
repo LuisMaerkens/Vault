@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Logboek/Untitled.md",
+      "filepath": "Kanban Board/Kanban board.md",
+      "timestamp": 1759218853865
+    },
+    {
+      "filepath": "Logboek/29-09-2025.md",
       "timestamp": 1759218091847
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "WoordenBoek/Haal Centraal.md",
       "timestamp": 1759217906738
-    },
-    {
-      "filepath": "WoordenBoek/CLO koppeling.md",
-      "timestamp": 1759217863631
     }
   ],
   "bookmarkedFileStore": [
