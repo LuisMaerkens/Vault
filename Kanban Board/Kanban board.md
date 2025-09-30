@@ -10,6 +10,7 @@ kanban-plugin: board
 - [ ] obsidian vault linken met laptop
 - [ ] obsidian vault linken met telefoon
 - [ ] postman
+- [ ] WEM (icloud account)
 
 
 ## To-Do
