@@ -1,23 +1,3 @@
-
-wat is suites?
-
-altlas geoviewer
-
-is Haven een opensource docker container?
-
-azure haven
-
-wat is key2dds
-
-wat zijn saasomgeving datadumps geen auth? 
-
-saasomgeving heeft its te maken met haven?
-
-
-
-
-
-
 ### Belangrijke termen & concepten
 
 - **Synaxion**  
@@ -104,7 +84,3 @@ saasomgeving heeft its te maken met haven?
     
 - **Grafana**  
     Je schreef “afana/gafana?” — ik denk dat je bedoelde **Grafana**, een tool voor dashboards / visualisatie van metrics / logs.
-
-
-
-[[Generele informatie]]

@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Generele informatie/sneek vergadering.md",
+      "filepath": "Generele informatie/Notes.md",
+      "timestamp": 1759223755873
+    },
+    {
+      "filepath": "Archive/sneek vergadering.md",
       "timestamp": 1759223557629
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "Main Workspace.canvas",
       "timestamp": 1759223118310
-    },
-    {
-      "filepath": "Generele informatie/REX.md",
-      "timestamp": 1759222948294
     }
   ],
   "bookmarkedFileStore": [

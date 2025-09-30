@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generele informatie/sneek vergadering.md",
+                "file": "Archive/sneek vergadering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generele informatie/sneek vergadering.md",
+                "file": "Generele informatie/Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "sneek vergadering"
+              "title": "Notes"
             }
           }
         ],
@@ -240,7 +240,7 @@
   },
   "active": "0d244dfe3e98e560",
   "lastOpenFiles": [
-    "Generele informatie/sneek vergadering.md",
+    "Archive/sneek vergadering.md",
     "Archive/synaxion.md",
     "WoordenBoek/DDS.md",
     "Main Workspace.canvas",
