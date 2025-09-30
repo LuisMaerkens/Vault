@@ -11,24 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Board/Kanban board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Logboek/29-09-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban board"
+              "icon": "lucide-file",
+              "title": "29-09-2025"
             }
           }
         ]
@@ -233,11 +224,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Search.md",
+    "Generele informatie/sneek vergadering.md",
+    "Logboek/29-09-2025.md",
     "Main Workspace.canvas",
+    "WoordenBoek/Haal Centraal.md",
+    "WoordenBoek/CLO koppeling.md",
+    "WoordenBoek/BRP koppeling.md",
+    "Kanban Board/Kanban board.md",
+    "Search.md",
     "TIMER.md",
     "Generele informatie/Notes.md",
-    "Kanban Board/Kanban board.md",
     "Kanban Board/Notes/Stage verslag Documentatie.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
@@ -258,11 +254,6 @@
     "copilot",
     "Generele informatie.md",
     "Archive/charts 1.md",
-    "Archive/charts.md",
-    "moeten gevraagt worden.md",
-    "vergadering naming.md",
-    "Generele informatie/sneek vergadering.md",
-    "Logboek/Uren.md",
     "fotos/Kanban fotos/image-3.png",
     "fotos/Kanban fotos/image-2.png",
     "fotos/Kanban fotos/image-1.png",
