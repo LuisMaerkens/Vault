@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"8f0cd398833f09b8","type":"group","x":-6000,"y":-2424,"width":3840,"height":3224,"label":"MS 365"},
+		{"id":"ded7088e5199e2b6","type":"group","x":2400,"y":-2046,"width":3499,"height":2726,"label":"WeAreFrank!"},
 		{"id":"affd9f32e7f97eb1","type":"group","x":-720,"y":-2720,"width":2773,"height":1348,"label":"Agile werken"},
 		{"id":"fd8555b0071ee0ea","type":"group","x":-520,"y":-4120,"width":1400,"height":1000,"label":"Kanban"},
-		{"id":"ded7088e5199e2b6","type":"group","x":2400,"y":-2046,"width":3499,"height":2726,"label":"WeAreFrank!"},
 		{"id":"a7b0c78352978bd1","type":"text","text":"`<Receiver`","x":4149,"y":-1013,"width":130,"height":60},
 		{"id":"0d47dbe2a6832caa","type":"text","text":"**`<Adapter>`**","x":4210,"y":-931,"width":138,"height":50},
 		{"id":"2ad05cac3f61d9c7","type":"text","text":"#### `Build.xml`","x":5079,"y":-160,"width":250,"height":60},
@@ -27,7 +27,7 @@
 		{"id":"75ec2f97305086fb","type":"text","text":"**?????**","x":4220,"y":-1784,"width":90,"height":60},
 		{"id":"f8cb3729f08e0200","type":"text","text":"`name =\"ABC\"`","x":4411,"y":-1737,"width":165,"height":50},
 		{"id":"67fbb78e73c080cc","type":"text","text":"WAF! koppelt applicaties","x":4865,"y":-1429,"width":250,"height":60},
-		{"id":"b7205f07b18524dc","type":"text","text":"WeAreFrank!","x":5025,"y":-1234,"width":250,"height":60},
+		{"id":"b7205f07b18524dc","type":"text","text":"# *WeAreFrank!*","x":5025,"y":-1234,"width":250,"height":60},
 		{"id":"47bc54fd3d057130","type":"text","text":"**Koppelt, koppelen????**","x":4947,"y":-1596,"width":250,"height":60},
 		{"id":"bbd55da9fe28efee","type":"text","text":"password generator","x":4599,"y":-911,"width":250,"height":60},
 		{"id":"f19ad727f2db5f88","type":"text","text":"waarom met kanban werken","x":-200,"y":-3420,"width":250,"height":60},
@@ -219,7 +219,9 @@
 		{"id":"430b3f394dee04e7","type":"text","text":"Excel","x":-4461,"y":-1870,"width":250,"height":60},
 		{"id":"5cd1d1b1e8cb8b8a","type":"file","file":"fotos/Logos/Pasted image 20250910142716.png","x":-4461,"y":-1780,"width":112,"height":112},
 		{"id":"2eeee3282da35ea8","type":"text","text":"Calander","x":-3686,"y":-1712,"width":250,"height":60},
-		{"id":"803bb948bd0bec56","type":"file","file":"fotos/Logos/Pasted image 20250910143005.png","x":-3571,"y":-1749,"width":134,"height":134}
+		{"id":"803bb948bd0bec56","type":"file","file":"fotos/Logos/Pasted image 20250910143005.png","x":-3571,"y":-1749,"width":134,"height":134},
+		{"id":"06116d1c5b94f879","x":5517,"y":-1145,"width":250,"height":60,"type":"text","text":"Frank!Framework"},
+		{"id":"f7c72ee1377fc161","x":5400,"y":-1264,"width":250,"height":60,"type":"text","text":"[Frank!Doc](https://frankdoc.frankframework.org/#/search)"}
 	],
 	"edges":[
 		{"id":"efc8c33647e39ef3","fromNode":"58b5b435da083b49","fromSide":"top","toNode":"6d8eaecac202bc3d","toSide":"bottom","toEnd":"none"},
@@ -400,6 +402,8 @@
 		{"id":"a94a2176dc963d58","fromNode":"4557f294188c13c8","fromSide":"bottom","toNode":"2ad05cac3f61d9c7","toSide":"right"},
 		{"id":"5efcb324070b9e0a","fromNode":"2ad05cac3f61d9c7","fromSide":"left","toNode":"1039184d4b8a7791","toSide":"right"},
 		{"id":"ef8dbbc9cabbb126","fromNode":"92ca22eb905f4590","fromSide":"left","toNode":"da7ba8639397b036","toSide":"bottom"},
-		{"id":"6ae19a826b7a7e0a","fromNode":"da7ba8639397b036","fromSide":"left","toNode":"592f48ace31882c9","toSide":"right"}
+		{"id":"6ae19a826b7a7e0a","fromNode":"da7ba8639397b036","fromSide":"left","toNode":"592f48ace31882c9","toSide":"right"},
+		{"id":"60a01fa2d6313f6f","fromNode":"b7205f07b18524dc","fromSide":"right","toNode":"06116d1c5b94f879","toSide":"left"},
+		{"id":"c8132ae907890b85","fromNode":"b7205f07b18524dc","fromSide":"right","toNode":"f7c72ee1377fc161","toSide":"left"}
 	]
 }
