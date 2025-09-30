@@ -1,5 +1,7 @@
 auth koppeling certificaat
 
+zijn sturen naar ons en wij naar hun en dat is hoe ze werken eigenlijk
+
 
 Citypermit naar Key2DDS Bevraging & Bevraging Helper
 

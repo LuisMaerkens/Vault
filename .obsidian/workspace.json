@@ -26,17 +26,15 @@
             "id": "0d244dfe3e98e560",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -1460,
-                  "zoom": -3.4437565496565266
-                }
+                "file": "Generele informatie/Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ],
@@ -242,8 +240,8 @@
   },
   "active": "0d244dfe3e98e560",
   "lastOpenFiles": [
-    "Generele informatie/Notes.md",
     "Main Workspace.canvas",
+    "Generele informatie/Notes.md",
     "Archive/Kubernetes.md",
     "Archive/sneek vergadering.md",
     "Archive/synaxion.md",
