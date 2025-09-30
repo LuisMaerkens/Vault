@@ -11,24 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Board/Kanban board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Generele informatie/sneek vergadering.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban board"
+              "icon": "lucide-file",
+              "title": "sneek vergadering"
             }
           }
         ]
@@ -233,13 +224,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Logboek/29-09-2025.md",
+    "Generele informatie/REX.md",
+    "Archive/Grafana Labs.md",
     "Generele informatie/sneek vergadering.md",
+    "Kanban Board/Kanban board.md",
+    "Logboek/29-09-2025.md",
     "Main Workspace.canvas",
     "WoordenBoek/Haal Centraal.md",
     "WoordenBoek/CLO koppeling.md",
     "WoordenBoek/BRP koppeling.md",
-    "Kanban Board/Kanban board.md",
     "Search.md",
     "TIMER.md",
     "Generele informatie/Notes.md",
@@ -261,8 +254,6 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Generele informatie.md",
-    "Archive/charts 1.md",
     "fotos/Kanban fotos/image-3.png",
     "fotos/Kanban fotos/image-2.png",
     "fotos/Kanban fotos/image-1.png",

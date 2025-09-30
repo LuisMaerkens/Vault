@@ -20,11 +20,8 @@ grafityforms
 
 wat is dds? 
 
-frankgateway
-- plugin???
-- plugin maken????
 
-afana/gafana?
+
 
 ### Belangrijke termen & concepten
 
