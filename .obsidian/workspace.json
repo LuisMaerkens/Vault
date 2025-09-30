@@ -11,10 +11,15 @@
             "id": "73e629081e03cc56",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "TIMER.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TIMER"
             }
           }
         ]
@@ -220,10 +225,10 @@
   },
   "active": "73e629081e03cc56",
   "lastOpenFiles": [
+    "Main Workspace.canvas",
     "Generele informatie/Notes.md",
     "Kanban Board/Kanban board.md",
     "Kanban Board/Notes/Stage verslag Documentatie.md",
-    "Main Workspace.canvas",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
@@ -249,7 +254,6 @@
     "Generele informatie/sneek vergadering.md",
     "Logboek/Uren.md",
     "Logboek/26-09-2025.md",
-    "Logboek/25-09-2025.md",
     "fotos/Kanban fotos/image-3.png",
     "fotos/Kanban fotos/image-2.png",
     "fotos/Kanban fotos/image-1.png",
