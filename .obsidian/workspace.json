@@ -26,10 +26,15 @@
             "id": "0d244dfe3e98e560",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Generele informatie/Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ],
@@ -235,8 +240,8 @@
   },
   "active": "0d244dfe3e98e560",
   "lastOpenFiles": [
-    "Generele informatie/Notes.md",
     "Main Workspace.canvas",
+    "Generele informatie/Notes.md",
     "Archive/Kubernetes.md",
     "Archive/sneek vergadering.md",
     "Archive/synaxion.md",
