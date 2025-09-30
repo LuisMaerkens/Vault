@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Side Quest
 
-- [ ] appenkooi
 - [ ] obsidian vault linken met laptop
 - [ ] obsidian vault linken met telefoon
 - [ ] postman
@@ -46,6 +45,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] appenkooi (Side Quest)
 
 
 ## Special
