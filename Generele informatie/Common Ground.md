@@ -16,4 +16,22 @@ Het 5-lagenmodel fungeert deels als praatplaat – het helpt om draagvlak en ove
 
 Kortom: het 5-lagenmodel helpt om informatievoorziening en applicaties te ordenen, maar blijft lastig te rijmen met het 3-tier model. Vooral de benaming van de proceslaag vraagt verduidelijking.
 
+
+### De Toekomstvisie: Common Ground
+
+De gemeente wil af van deze afhankelijkheid en overstappen op het **Common Ground**-principe. Dit is een landelijke beweging binnen Nederlandse gemeenten. De kernideeën van Common Ground zijn:
+
+- **Van systeem naar data:** De data (bijvoorbeeld informatie over een burger of een klacht) staat centraal, niet het systeem waarin die data is opgeslagen. De data wordt opgeslagen in een centrale, veilige omgeving.
+    
+- **Modulaire, losse applicaties:** In plaats van één groot zaaksysteem, worden er meerdere, kleinere applicaties gebruikt. Deze applicaties hebben elk hun eigen specifieke taak.
+    
+- **Geen vendor lock-in:** Omdat de data losgekoppeld is van de applicaties, kan een gemeente makkelijk van applicatie wisselen zonder dat alle data opnieuw overgezet hoeft te worden.
+    
+
+Tezza is hierin een van de nieuwe applicaties die de gemeente waarschijnlijk wil gaan gebruiken. Tezza is zo'n **Common Ground-applicatie** die speciaal is ontwikkeld voor zaakgericht werken, en die naadloos samenwerkt met andere, losse applicaties.
+
+
+
+
+
 [[Generele informatie]]

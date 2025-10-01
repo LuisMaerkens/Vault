@@ -1,3 +1,1 @@
 Open Objecten is een onderdeel van het Open Gemeente Initiatief (OGI) waarmee gemeenten fysieke en niet-fysieke objecten kunnen registreren en openbaar maken, zoals monumenten, meldingen, bomen en vorderingen.
-
-[[WoordenBoek]]
