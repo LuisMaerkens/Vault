@@ -3,6 +3,9 @@ views:
     name: Table
   - type: cards
     name: View
+    order:
+      - file.name
+    sort: []
     cardSize: 300
     image: file.file
     imageFit: contain
