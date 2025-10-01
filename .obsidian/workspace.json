@@ -11,13 +11,15 @@
             "id": "579fd83fa8a02402",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "View"
+                "file": "Generele informatie/Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
