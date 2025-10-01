@@ -11,10 +11,17 @@
             "id": "579fd83fa8a02402",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "canvas",
+              "state": {
+                "file": "Main Workspace.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -2471.945137157107,
+                  "zoom": -3.4437565496565266
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Workspace"
             }
           }
         ]
@@ -125,8 +132,8 @@
               "state": {
                 "file": "Main Workspace.canvas",
                 "viewState": {
-                  "x": -2044.7918584922381,
-                  "y": 1177.5321094140265,
+                  "x": -1999.5509285111443,
+                  "y": 1014.0298010613021,
                   "zoom": 0.33333333333333365
                 }
               },
@@ -217,7 +224,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "579fd83fa8a02402",
+  "active": "a844f2d051659648",
   "lastOpenFiles": [
     "Generele informatie/Notes.md",
     "Main Workspace.canvas",
