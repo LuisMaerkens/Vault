@@ -23,8 +23,7 @@ stuff berichten xml
 
 
 
-| A   | uur |
-| --- | --- |
+
 # **intake**
 
 citypermit to key2dds
@@ -85,8 +84,7 @@ https://l-a-asr-1000:8443/opentunnel/config/system/synchronization
 
 https://l-a-asr-1000:8443/opentunnel/runtime/ui
 
-
-
+R:\SSC IM\IM ST Koppelingen\OT  - TO koppelingen
 
 
 
