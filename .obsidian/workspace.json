@@ -60,13 +60,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Zaaksystem.md",
+                "file": "Archive/charts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Zaaksystem"
+              "title": "charts"
             }
           }
         ],
@@ -270,14 +270,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a318cd573362fb3",
+  "active": "d3ec982191e5b988",
   "lastOpenFiles": [
+    "Archive/charts.md",
+    "Archive/Data-ethiek.md",
+    "Archive/Kubernetes.md",
+    "Archive/Leerdoelen LIJST.md",
+    "Archive/Zaaksystem.md",
     "Untitled.base",
     "min.md",
     "Archive/Process Mining.md",
     "Generele informatie/Notes.md",
     "Main Workspace.canvas",
-    "Archive/Data-ethiek.md",
     "Generele informatie/Common Ground.md",
     "Archive/PodiumD-Dimpact.md",
     "Archive/Open Zaak.md",
@@ -286,7 +290,6 @@
     "Archive/Open Gemeente Initiatief (OGI).md",
     "Archive/Open Formulier.md",
     "kennismakings profielen/Untitled.md",
-    "Archive/Kubernetes.md",
     "Archive/sneek vergadering.md",
     "Archive/synaxion.md",
     "WoordenBoek/DDS.md",
@@ -297,8 +300,6 @@
     "WoordenBoek/Haal Centraal.md",
     "WoordenBoek/CLO koppeling.md",
     "WoordenBoek/BRP koppeling.md",
-    "Search.md",
-    "Archive/TIMER.md",
     "copilot/desktop.ini",
     "copilot/copilot-custom-prompts",
     "copilot",

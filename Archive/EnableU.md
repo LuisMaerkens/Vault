@@ -15,3 +15,5 @@ De directe link is niet dat Enable U zelf een process mining-tool is, maar dat h
 **Kortom, Enable U levert de fundamentele bouwstenen (de data) die nodig zijn om process mining überhaupt mogelijk te maken.**
 
 Zonder een bedrijf als Enable U zou het in veel complexe organisaties een enorme, handmatige klus zijn om de vereiste event logs te verzamelen. Enable U automatiseert dit proces, wat de weg vrijmaakt voor de process mining-analyse. Je zou kunnen zeggen dat Enable U de data voorbereidt, zodat de process mining-tools de analyse kunnen uitvoeren.
+
+ [[Archive]] 

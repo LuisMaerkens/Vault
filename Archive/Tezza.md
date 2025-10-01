@@ -28,3 +28,6 @@ Tezza heeft een community gitlab test app
 
 
 Je hebt ook Tezza RM dat is meer een admin pannel van Tezza.
+
+
+ [[Archive]] 

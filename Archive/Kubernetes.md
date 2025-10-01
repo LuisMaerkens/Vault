@@ -1,1 +1,3 @@
 Kubernetes, of K8s, is een open-source platform voor containerorkestratie dat het beheer van applicaties die draaien in containers automatiseert, schaalt en vereenvoudigt. Het biedt een gestandaardiseerde manier om containerapplicaties te implementeren, uit te voeren en te beheren op clusters van servers, zowel in de cloud als on-premises. Kernfuncties omvatten automatische schaalbaarheid, zelfherstel, load balancing en een gestandaardiseerde manier om applicaties te implementeren en te beheren.m
+
+ [[Archive]] 

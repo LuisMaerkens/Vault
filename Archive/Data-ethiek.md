@@ -4,3 +4,6 @@ Probleem: wil men wel dat alles word opgeslagen en dat je elke zin terug kan kij
 Dus wat is Data-ethiek: het nadenken over de morele en ethische implicaties van hoe je data verzameld, gebruikt, deelt en opslaat.  
 
 Plan stel vragen. ik wil voor mijzelf proberen om er goed aan mee te doen en niet er stil bij te zitten. indien mogelijk 1 vraag stellen maar hopelijk meer. 
+
+
+ [[Archive]] 

@@ -11,3 +11,6 @@ Het belangrijkste verschil met de manier waarop jij het omschrijft, is dat proce
 - **Welke stappen er worden genomen:** Inclusief de volgorde en de frequentie.
     
 - **Waar knelpunten zitten:** Denk aan vertragingen, omleidingen of onnodige herhalingen.
+
+
+ [[Archive]] 

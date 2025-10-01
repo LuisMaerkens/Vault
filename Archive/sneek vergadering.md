@@ -84,3 +84,6 @@
     
 - **Grafana**  
     Je schreef “afana/gafana?” — ik denk dat je bedoelde **Grafana**, een tool voor dashboards / visualisatie van metrics / logs.
+
+
+ [[Archive]] 

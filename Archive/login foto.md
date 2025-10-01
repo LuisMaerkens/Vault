@@ -19,3 +19,6 @@ Kortom, het diagram beschrijft de volledige keten van het verzamelen van data va
 
 
 
+
+
+ [[Archive]] 
