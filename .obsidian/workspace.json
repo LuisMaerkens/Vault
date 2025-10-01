@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "579fd83fa8a02402",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -130,9 +130,9 @@
               "state": {
                 "file": "Main Workspace.canvas",
                 "viewState": {
-                  "x": -1999.5509285111443,
-                  "y": 1014.0298010613021,
-                  "zoom": 0.33333333333333365
+                  "x": -1990.973899828157,
+                  "y": 1029.5845690653032,
+                  "zoom": 0.22761047314122868
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,11 +223,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "579fd83fa8a02402",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Generele informatie/Notes.md",
     "Main Workspace.canvas",
     "Untitled.base",
-    "Generele informatie/Notes.md",
     "Archive/Kubernetes.md",
     "Archive/sneek vergadering.md",
     "Archive/synaxion.md",
