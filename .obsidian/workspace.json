@@ -11,17 +11,13 @@
             "id": "579fd83fa8a02402",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "bases",
               "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -2471.945137157107,
-                  "zoom": -3.4437565496565266
-                }
+                "file": "Untitled.base",
+                "viewName": "View"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
+              "icon": "lucide-layout-grid",
+              "title": "Untitled"
             }
           }
         ]
@@ -224,10 +220,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a844f2d051659648",
+  "active": "579fd83fa8a02402",
   "lastOpenFiles": [
-    "Generele informatie/Notes.md",
+    "Untitled.base",
     "Main Workspace.canvas",
+    "Generele informatie/Notes.md",
     "Archive/Kubernetes.md",
     "Archive/sneek vergadering.md",
     "Archive/synaxion.md",
@@ -272,7 +269,6 @@
     "fotos/Logos/Pasted image 20250910150744.png",
     "fotos/Logos/Pasted image 20250910150648.png",
     "fotos/Logos/Pasted image 20250910150610.png",
-    "daily.canvas",
-    "Untitled.base"
+    "daily.canvas"
   ]
 }
