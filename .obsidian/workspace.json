@@ -11,17 +11,15 @@
             "id": "16e151e24f480888",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": 399.1782627943767,
-                  "y": -1742.6603747808804,
-                  "zoom": -3.443756549656526
-                }
+                "file": "WoordenBoek/(LV,BV) WOZ.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
+              "icon": "lucide-file",
+              "title": "(LV,BV) WOZ"
             }
           }
         ]
@@ -133,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Workspace.canvas",
+                "file": "WoordenBoek/(LV,BV) WOZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Main Workspace"
+              "title": "Outgoing links from (LV,BV) WOZ"
             }
           },
           {
@@ -225,10 +223,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "16e151e24f480888",
+  "active": "8dcbc8ae5a7688d0",
   "lastOpenFiles": [
-    "Generele informatie/Notes.md",
+    "WoordenBoek/Untitled",
     "Main Workspace.canvas",
+    "Generele informatie/Notes.md",
     "dingen waar ik nog meer over wil weten.md",
     "dingen waar ik nog meer over wil weten/Microservices.md",
     "dingen waar ik nog meer over wil weten/Logging_Levels.md",
