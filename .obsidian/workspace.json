@@ -8,20 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "16e151e24f480888",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": -50.5,
-                  "y": -1460,
-                  "zoom": -3.4436353096849532
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -116,29 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Workspace.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Main Workspace"
-            }
-          },
-          {
-            "id": "a844f2d051659648",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": -1990.973899828157,
-                  "y": 1029.5845690653032,
-                  "zoom": 0.22761047314122868
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
+              "title": "Outgoing links"
             }
           },
           {
@@ -182,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -224,10 +199,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "16e151e24f480888",
   "lastOpenFiles": [
-    "Generele informatie/Notes.md",
     "Main Workspace.canvas",
+    "Generele informatie/Notes.md",
     "dingen waar ik nog meer over wil weten/Microservices.md",
     "dingen waar ik nog meer over wil weten/Logging_Levels.md",
     "dingen waar ik nog meer over wil weten/MD5.md",
