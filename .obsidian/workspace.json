@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generele informatie/Notes.md",
+                "file": "Logboek/Oktober/01-10-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "01-10-2025"
             }
           }
         ]
@@ -226,15 +226,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Logboek/02-10-2025.md",
-    "Logboek/01-10-2025.md",
-    "Logboek/02-09-2025.md",
-    "Logboek/01-09-2025.md",
-    "Logboek/30-09-2025.md",
+    "Logboek/September/30-09-2025.md",
+    "Logboek/September/29-09-2025.md",
+    "Logboek/September/01-09-2025.md",
+    "Logboek/September/03-09-2025.md",
+    "Generele informatie/Notes.md",
+    "Logboek/Oktober",
+    "Logboek/September",
+    "Logboek/Oktober/02-10-2025.md",
+    "Logboek/Oktober/01-10-2025.md",
+    "Logboek/September/02-09-2025.md",
     "WoordenBoek/(LV,BV) WOZ.md",
     "WoordenBoek/Untitled",
     "Main Workspace.canvas",
-    "Generele informatie/Notes.md",
     "dingen waar ik nog meer over wil weten.md",
     "dingen waar ik nog meer over wil weten/Microservices.md",
     "dingen waar ik nog meer over wil weten/Logging_Levels.md",
@@ -252,8 +256,6 @@
     "dingen waar ik nog meer over wil weten/HTTP.md",
     "dingen waar ik nog meer over wil weten/Helper.md",
     "dingen waar ik nog meer over wil weten/Hashing.md",
-    "dingen waar ik nog meer over wil weten/Grafana.md",
-    "dingen waar ik nog meer over wil weten/GitLab.md",
     "dingen waar ik nog meer over wil weten",
     "Untitled.base",
     "copilot/desktop.ini",
@@ -265,8 +267,6 @@
     "fotos/Kanban fotos/image.png",
     "fotos/Kanban fotos",
     "Kanban Board/Notes",
-    "Kanban Board",
-    "Templates",
     "Archive/Organogram.canvas",
     "fotos/mindmap.png",
     "fotos/vraagteken.png",
