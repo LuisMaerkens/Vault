@@ -11,17 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": -50.5,
-                  "y": -1460,
-                  "zoom": -3.4436353096849532
-                }
+                "file": "Generele informatie/Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
@@ -225,7 +223,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3ec982191e5b988",
+  "active": "8dcbc8ae5a7688d0",
   "lastOpenFiles": [
     "Main Workspace.canvas",
     "Generele informatie/Notes.md",
