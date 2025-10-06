@@ -31,4 +31,4 @@
 
 
 
-[[Generele informatie]]
+[[Algemene informatie]]

@@ -12,7 +12,7 @@
         
     - **Architectuur & Advies:** Bepaalt de technische blauwdruk van de IT-systemen en adviseert over hoe alles het beste kan worden opgezet.
         
-- **Belangrijke onderwerpen:** De tekst noemt specifiek **robotisering** ([[Generele informatie/RPA]]), **datagedreven werken** (DWO) en **procesoptimalisatie**. Dit bevestigt dat de afdelingen die we eerder hebben besproken, zoals [[Generele informatie/RPA]] en DWO, nauw samenwerken onder de grotere paraplu van Informatiemanagement. Ze zijn de teams die de strategie van [[Generele informatie/IM]] daadwerkelijk uitvoeren.
+- **Belangrijke onderwerpen:** De tekst noemt specifiek **robotisering** ([[Algemene informatie/RPA]]), **datagedreven werken** (DWO) en **procesoptimalisatie**. Dit bevestigt dat de afdelingen die we eerder hebben besproken, zoals [[Algemene informatie/RPA]] en DWO, nauw samenwerken onder de grotere paraplu van Informatiemanagement. Ze zijn de teams die de strategie van [[Algemene informatie/IM]] daadwerkelijk uitvoeren.
 
 
-[[Generele informatie]]
+[[Algemene informatie]]

@@ -34,4 +34,4 @@ Tezza is hierin een van de nieuwe applicaties die de gemeente waarschijnlijk wil
 
 
 
-[[Generele informatie]]
+[[Algemene informatie]]

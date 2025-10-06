@@ -16,4 +16,4 @@
     `docker run -p <host-poort>:<container-poort> <naam>`
 
 
-[[Generele informatie]]
+[[Algemene informatie]]

@@ -14,12 +14,13 @@ eigenrollen en werkzaamheden
 	Stageweek 3 
 leerdoelen
 Documentatie
-	Documentatie voorwordt (hier heb ik nog een andere naam voor nodig)
-	logboek/uren in ander document
-	Documentatie
+	Documentatie voorwoord (hier heb ik nog een andere naam voor nodig)
+	algemene informatie
+		Documentatie
 		woordenboek
+		Archive
+	logboek/uren in ander document
 		
-	
 reflectie
 conclusie
 bronnen

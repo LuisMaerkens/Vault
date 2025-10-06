@@ -16,4 +16,4 @@ Dit zorgt niet alleen voor een betere kwaliteit, maar hierdoor gaan we ook effic
 Als je bij één van de onderdelen van het SSC van de gemeente Leeuwarden komt werken, weet je zeker dat je gaat samenwerken met collega’s van onder andere de gemeenten Waadhoeke, Noardeast-Fryslân, Dantumadiel en de Waddeneilanden. En in sommige gevallen werk je dus ook voor hen. Dat maakt het werk bij het SSC niet alleen uitdagender, maar het zorgt er ook voor dat je altijd omringd bent met professionals op verschillende onderdelen binnen de bedrijfsvoering.
 
 
-[[Generele informatie]]
+[[Algemene informatie]]

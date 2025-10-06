@@ -7,11 +7,11 @@
 
 ### De samenwerking met andere teams
 
-- **[[Generele informatie/RPA]] (Robotic Process Automation):** De **RPA-robots** werken direct met REX. Ze halen taken op uit REX en voeren repetitieve handelingen uit in andere systemen (zoals het bijwerken van een SharePoint-site). Nadat de robot een taak heeft voltooid, stuurt hij de status van de zaak terug naar REX. Dit laat zien dat REX niet alleen een passieve database is, maar actief de werkvoorraad van de robots aanstuurt.
+- **[[Algemene informatie/RPA]] (Robotic Process Automation):** De **RPA-robots** werken direct met REX. Ze halen taken op uit REX en voeren repetitieve handelingen uit in andere systemen (zoals het bijwerken van een SharePoint-site). Nadat de robot een taak heeft voltooid, stuurt hij de status van de zaak terug naar REX. Dit laat zien dat REX niet alleen een passieve database is, maar actief de werkvoorraad van de robots aanstuurt.
     
 - **DWO (Data & Workflows):** Dit team gebruikt technieken zoals **Process Mining** om te analyseren hoe processen verlopen. Ze kunnen de logbestanden van REX onderzoeken om te zien hoe snel zaken worden afgehandeld, waar knelpunten zitten of waar afwijkingen van het standaardproces plaatsvinden. De data uit REX is dus essentieel voor het DWO-team om te kunnen bepalen hoe de workflows geoptimaliseerd kunnen worden.
     
-- **[[Generele informatie/IM]] (Informatiemanagement):** Het **IM-team** is strategisch verantwoordelijk voor de gehele informatievoorziening van de gemeente. REX valt onder hun verantwoordelijkheid. Het IM-team zorgt voor de kwaliteit van de data in REX en overziet de integratie met andere systemen. De nauwe samenwerking tussen de teams van IM, DWO en RPA is cruciaal voor het optimaal functioneren van REX en de bijbehorende processen.
+- **[[Algemene informatie/IM]] (Informatiemanagement):** Het **IM-team** is strategisch verantwoordelijk voor de gehele informatievoorziening van de gemeente. REX valt onder hun verantwoordelijkheid. Het IM-team zorgt voor de kwaliteit van de data in REX en overziet de integratie met andere systemen. De nauwe samenwerking tussen de teams van IM, DWO en RPA is cruciaal voor het optimaal functioneren van REX en de bijbehorende processen.
     
 ---
 
@@ -29,7 +29,7 @@
 ![[simple rex.png]]
 ### Wat betekent dit in de praktijk?
 
-In de context van procesautomatisering, en met name **Robotic Process Automation ([[Generele informatie/RPA]])**, is een werkvoorraad een essentiële component.
+In de context van procesautomatisering, en met name **Robotic Process Automation ([[Algemene informatie/RPA]])**, is een werkvoorraad een essentiële component.
 
 - **REX functioneert als de centrale wachtrij:** Het is de plek waar alle nieuwe taken (klachten in dit geval) binnenkomen en wachten om te worden opgepakt. Dit zorgt voor een georganiseerde, gecontroleerde stroom van werk.
     

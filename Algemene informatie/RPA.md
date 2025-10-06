@@ -9,4 +9,4 @@ Bij Gemeente Leeuwarden gebruiken ze UiPath om de automatie robots te maken.
 - Werkt met koppelingen (API’s) in [[REX]]​
 
 
-[[Generele informatie]]
+[[Algemene informatie]]
