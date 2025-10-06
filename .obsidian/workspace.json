@@ -8,13 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "689cbe0fa7e33048",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "canvas",
+              "state": {
+                "file": "Main Workspace.canvas",
+                "viewState": {
+                  "x": -50.5,
+                  "y": -1460,
+                  "zoom": -3.4436353096849532
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Workspace"
             }
           }
         ]
@@ -197,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,8 +225,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "689cbe0fa7e33048",
+  "active": "d3ec982191e5b988",
   "lastOpenFiles": [
+    "Main Workspace.canvas",
+    "Generele informatie/Notes.md",
     "WoordenBoek/KCC.md",
     "Logboek/Oktober/03-10-2025.md",
     "Logboek/Oktober/02-10-2025.md",
@@ -229,13 +237,11 @@
     "Logboek/September/29-09-2025.md",
     "Logboek/September/01-09-2025.md",
     "Logboek/September/03-09-2025.md",
-    "Generele informatie/Notes.md",
     "Logboek/Oktober",
     "Logboek/September",
     "Logboek/September/02-09-2025.md",
     "WoordenBoek/(LV,BV) WOZ.md",
     "WoordenBoek/Untitled",
-    "Main Workspace.canvas",
     "dingen waar ik nog meer over wil weten.md",
     "dingen waar ik nog meer over wil weten/Microservices.md",
     "dingen waar ik nog meer over wil weten/Logging_Levels.md",
@@ -250,7 +256,6 @@
     "dingen waar ik nog meer over wil weten/Infrastructure_as_Code.md",
     "dingen waar ik nog meer over wil weten/IM.md",
     "dingen waar ik nog meer over wil weten/HTTPS.md",
-    "dingen waar ik nog meer over wil weten/HTTP.md",
     "dingen waar ik nog meer over wil weten",
     "Untitled.base",
     "copilot/desktop.ini",
