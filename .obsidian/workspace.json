@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generele informatie/Notes.md",
+                "file": "Kanban Board/Notes/Stageverslag Lay-Out design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Stageverslag Lay-Out design"
             }
           }
         ]
@@ -130,8 +130,8 @@
               "state": {
                 "file": "Main Workspace.canvas",
                 "viewState": {
-                  "x": -1990.973899828157,
-                  "y": 1029.5845690653032,
+                  "x": -2000.539303069746,
+                  "y": 1009.0874104455354,
                   "zoom": 0.22761047314122868
                 }
               },
@@ -223,8 +223,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8dcbc8ae5a7688d0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Kanban Board/Kanban board.md",
     "Main Workspace.canvas",
     "Generele informatie/Notes.md",
     "WoordenBoek/KCC.md",

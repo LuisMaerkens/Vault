@@ -1,19 +1,25 @@
 # **Inhoudsopgave**
 
-stageverslag 1
-inhoudsopgave 2
-voorword 3
-Gemeente leeuwarden 4
-	wie is gemeente leeuwarden 4
-	agile werken / scrum / kanban 6
-		weke vormen van agile werken zijn er 6
-eigenrollen en werkzaamheden 8
-	Stageweek 1 tot 4 8
-	Stageweek 1 9
-	Stageweek 2 10
-	Stageweek 3 11
+stageverslag 
+inhoudsopgave 
+voorword 
+Gemeente leeuwarden 
+	wie is gemeente leeuwarden 
+	agile werken / scrum / kanban 
+		weke vormen van agile werken zijn er 
+eigenrollen en werkzaamheden 
+	Stageweek 1 tot 4 
+	Stageweek 1 
+	Stageweek 2 
+	Stageweek 3 
 leerdoelen
 Documentatie
+	Documentatie voorwordt (hier heb ik nog een andere naam voor nodig)
+	logboek/uren in ander document
+	Documentatie
+		woordenboek
+		
+	
 reflectie
 conclusie
 bronnen
