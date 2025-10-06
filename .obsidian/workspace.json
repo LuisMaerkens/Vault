@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "689cbe0fa7e33048",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "home-tab-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -219,8 +219,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "689cbe0fa7e33048",
   "lastOpenFiles": [
+    "WoordenBoek/KCC.md",
     "Logboek/Oktober/03-10-2025.md",
     "Logboek/Oktober/02-10-2025.md",
     "Logboek/Oktober/01-10-2025.md",
@@ -250,7 +251,6 @@
     "dingen waar ik nog meer over wil weten/IM.md",
     "dingen waar ik nog meer over wil weten/HTTPS.md",
     "dingen waar ik nog meer over wil weten/HTTP.md",
-    "dingen waar ik nog meer over wil weten/Helper.md",
     "dingen waar ik nog meer over wil weten",
     "Untitled.base",
     "copilot/desktop.ini",

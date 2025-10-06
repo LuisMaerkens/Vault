@@ -1,0 +1,1 @@
+KCC staat voor Klant Contact Centrum, een centrale afdeling binnen een organisatie waar klantvragen, klachten en verzoeken worden afgehandeld. Een KCC is het eerste aanspreekpunt voor klanten en burgers, fungeert als het gezicht en de stem van de organisatie, en zorgt voor een efficiënte en klantgerichte afhandeling van contacten via diverse kanalen.
