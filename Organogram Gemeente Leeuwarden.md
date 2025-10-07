@@ -1,0 +1,22 @@
+- [ ] Bedrijfsbureau en Vergunningen & Leefomgeving — 37 medewerkers  
+- [ ] Bedrijfsvoering & Advies Sociaal Domein — 55 medewerkers  
+- [ ] Beleid & Strategie Sociaal Domein — 64 medewerkers  
+- [ ] Burgerzaken en Service & Informatie — 91 medewerkers  
+- [ ] Communicatie — 36 medewerkers  
+- [ ] Concern — 35 medewerkers  
+- [ ] Duurzame Omgevingskwaliteit — 136 medewerkers  
+- [ ] Facilitair Beheer en Documentaire Informatie — 51 medewerkers  
+- [ ] Financiën, Administratie en Belastingen — 93 medewerkers  
+- [ ] Gebiedszaken, Economie en Strategie — 99 medewerkers  
+- [ ] Handhaving veiligheidsdomein — 64 medewerkers  
+- [ ] Historisch Centrum Leeuwarden — 25 medewerkers  
+- [ ] Informatiemanagement — 115 medewerkers  
+- [ ] Inkomen & WMO — 90 medewerkers  
+- [ ] Inrichting en Beheer Buitenruimte — 428 medewerkers  
+- [ ] Jeugd & Gezin — 119 medewerkers  
+- [ ] Juridische en Veiligheidszaken — 52 medewerkers  
+- [ ] Mens & Organisatie — 42 medewerkers  
+- [ ] Projectbureau (PMB) — 54 medewerkers  
+- [ ] Werk & Participatie — 197 medewerkers  
+- [ ] Shared Service Centrum (SSC) — ±300 medewerkers (geen aparte sector)  
+- [ ] Partners — aantal onbekend  

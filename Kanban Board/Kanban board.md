@@ -10,6 +10,7 @@ kanban-plugin: board
 - [ ] obsidian vault linken met telefoon
 - [ ] postman
 - [ ] WEM (icloud account)
+- [ ] [[Organogram Gemeente Leeuwarden]]
 
 
 ## To-Do
