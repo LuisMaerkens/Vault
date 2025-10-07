@@ -37,13 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WoordenBoek/karel.md",
+                "file": "Leerdoelen/II.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "karel"
+              "title": "II"
             }
           }
         ],
@@ -248,10 +248,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7db2cc180643fdfd",
+  "active": "a844f2d051659648",
   "lastOpenFiles": [
-    "Logboek/Oktober/06-10-2025.md",
+    "Leerdoelen/II.md",
+    "Leerdoelen/I.md",
     "WoordenBoek/karel.md",
+    "Logboek/Oktober/06-10-2025.md",
     "Kanban Board/Kanban board.md",
     "Main Workspace.canvas",
     "Logboek/Oktober/Oktober.md",
@@ -275,8 +277,6 @@
     "Algemene informatie/WeAreFrank.md",
     "Algemene informatie/ssc.md",
     "Algemene informatie/RPA.md",
-    "Algemene informatie/REX.md",
-    "Algemene informatie/Notes.md",
     "Logboek/Oktober",
     "Logboek/September",
     "WoordenBoek/Untitled",

@@ -1,4 +1,3 @@
-
 ### **Integratie-documentatie maken**
 
 - Ik wil de (technische) documentatie van integratie kunnen opzetten.
