@@ -45,33 +45,9 @@
               "icon": "lucide-file",
               "title": "06-10-2025"
             }
-          },
-          {
-            "id": "4b8cf336ee1fb5a4",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban Board/Kanban board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban board"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,8 +248,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4b8cf336ee1fb5a4",
+  "active": "7db2cc180643fdfd",
   "lastOpenFiles": [
+    "Kanban Board/Kanban board.md",
     "Main Workspace.canvas",
     "Logboek/Oktober/Oktober.md",
     "Logboek/Oktober/01-10-2025.md",
@@ -286,7 +263,6 @@
     "Logboek/Oktober/03-10-2025.md",
     "Logboek/Oktober/07-10-2025.md",
     "Organogram Gemeente Leeuwarden.md",
-    "Kanban Board/Kanban board.md",
     "dingen waar ik nog meer over wil weten/Kanban.md",
     "dingen waar ik nog meer over wil weten/AWS.md",
     "dingen waar ik nog meer over wil weten/Active_Directory.md",
