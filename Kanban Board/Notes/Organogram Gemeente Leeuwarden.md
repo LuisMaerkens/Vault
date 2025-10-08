@@ -12,7 +12,6 @@
 		- [ ] Comm. Bedrijfsvoering
 		- [ ] Comm. Ruimtelij
 		- [ ] Comm. Maatschap
-	- [ ] Belasting
 	- [ ] Mens & organisatie
 		- [ ] Mens en Organisatie A
 		- [ ] Mens en Organisatie S
