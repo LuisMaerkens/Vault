@@ -2,7 +2,16 @@
 	- [ ] ICT
 	- [ ] Financieel & adv.
 	- [ ] Facilitair
-	- [ ] Communicatie
+	- [ ] Communicatie en Marketing
+		- [ ] Comm. Bedrijfsv
+		- [ ] Comm. Ruimtelij
+		- [ ] Comm. Maatschap
 	- [ ] Belasting
-	- [ ] Personeel & organ.
+	- [ ] Mens & organisatie
+		- [ ] Mens en Organisatie A
+		- [ ] Mens en Organisatie S
 	- [ ] Informatie Management
+		- [ ] Functioneel Beheer
+		- [ ] Innovatie & Integrat
+		- [ ] Architecten & Advies
+		- [ ] Data
