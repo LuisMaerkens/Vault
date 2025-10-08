@@ -11,10 +11,15 @@
             "id": "96081645d2b68b5a",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Organogram Gemeente Leeuwarden"
             }
           }
         ]
@@ -220,12 +225,13 @@
   },
   "active": "96081645d2b68b5a",
   "lastOpenFiles": [
+    "Algemene informatie/Notes.md",
+    "WoordenBoek/Karel = Koraal.md",
     "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
     "Leerdoelen/I.md",
     "WoordenBoek/CLO koppeling.md",
     "Main Workspace.canvas",
     "Leerdoelen/II.md",
-    "WoordenBoek/karel.md",
     "Logboek/Oktober/06-10-2025.md",
     "Kanban Board/Kanban board.md",
     "Logboek/Oktober/Oktober.md",
