@@ -20,29 +20,28 @@
 		- [x] Innovatie & Integratie
 		- [x] Architecten & Advies
 		- [x] Data
-- [ ] Sociaal Domein
-	- [ ] Inkomen en WMO
-		- [ ] WMO
-		- [ ] Inkomen 1
-		- [ ] Inkomen 2
-		- [ ] Inkomen 3
-	- [ ] Jeugd en Gezin
-		- [ ] Jeugdexpertteam
-		- [ ] Jongerenteam
-	- [ ] Werk en Participatie
-		- [ ] Bureau Zelfstandigen
-		- [ ] Fryslân Werkt
-		- [ ] Werk 1
-		- [ ] Werk 2
-		- [ ] Handhaving
-		- [ ] Inburgering
-	- [ ] Beleid en Strategie Sociaal Domein
-		- [ ] Strategie
-		- [ ] Beleid en Strategie
-		- [ ] Ontwikkeling e
-		- [ ] Bestaanszekerheid
-	- [ ] Programmabureau Leeuwarden Oost
-	- [ ] Sociaal Domein Fryslân
-		- [ ] Inkoop en Contract
-		- [ ] Strategie en Beleid
-		- [ ] 
+- [x] Sociaal Domein
+	- [x] Inkomen en WMO
+		- [x] WMO
+		- [x] Inkomen 1
+		- [x] Inkomen 2
+		- [x] Inkomen 3
+	- [x] Jeugd en Gezin
+		- [x] Jeugdexpertteam
+		- [x] Jongerenteam
+	- [x] Werk en Participatie
+		- [x] Bureau Zelfstandigen
+		- [x] Fryslân Werkt
+		- [x] Werk 1
+		- [x] Werk 2
+		- [x] Handhaving
+		- [x] Inburgering
+	- [x] Beleid en Strategie Sociaal Domein
+		- [x] Strategie
+		- [x] Beleid en Strategie
+		- [x] Ontwikkeling e
+		- [x] Bestaanszekerheid
+	- [x] Programmabureau Leeuwarden Oost
+	- [x] Sociaal Domein Fryslân
+		- [x] Inkoop en Contract
+		- [x] Strategie en Beleid
