@@ -6,7 +6,8 @@
 		- [ ] WOZ en Heffen
 		- [ ] CFA en Innen
 		- [ ] Planning & Control Bedrijfsvoer
-	- [ ] Facilitair
+	- [ ] Facilitair Beheer en Documentaire Informatie
+		- [ ] Facilitair Beheer
 	- [ ] Communicatie en Marketing
 		- [ ] Comm. Bedrijfsvoering
 		- [ ] Comm. Ruimtelij
