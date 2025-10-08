@@ -5,7 +5,7 @@
 	- [ ] Financieel & adv.
 	- [ ] Facilitair
 	- [ ] Communicatie en Marketing
-		- [ ] Comm. Bedrijfsv
+		- [ ] Comm. Bedrijfsvoering
 		- [ ] Comm. Ruimtelij
 		- [ ] Comm. Maatschap
 	- [ ] Belasting
@@ -14,6 +14,6 @@
 		- [ ] Mens en Organisatie S
 	- [ ] Informatie Management
 		- [ ] Functioneel Beheer
-		- [ ] Innovatie & Integrat
+		- [ ] Innovatie & Integratie
 		- [ ] Architecten & Advies
 		- [ ] Data
