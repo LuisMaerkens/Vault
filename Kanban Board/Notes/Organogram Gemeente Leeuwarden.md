@@ -3,6 +3,9 @@
 		- [ ] Ho
 		- [ ] Mo
 	- [ ] Financieel & adv.
+		- [ ] WOZ en Heffen
+		- [ ] CFA en Innen
+		- [ ] Planning & Control Bedrijfsvoer
 	- [ ] Facilitair
 	- [ ] Communicatie en Marketing
 		- [ ] Comm. Bedrijfsvoering
