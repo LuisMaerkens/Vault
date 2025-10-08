@@ -10,7 +10,7 @@
 		- [ ] Facilitair Beheer
 	- [ ] Communicatie en Marketing
 		- [ ] Comm. Bedrijfsvoering
-		- [ ] Comm. Ruimtelij
+		- [ ] Comm. Ruimtelijk
 		- [ ] Comm. Maatschap
 	- [ ] Mens & organisatie
 		- [ ] Mens en Organisatie A
@@ -20,3 +20,10 @@
 		- [ ] Innovatie & Integratie
 		- [ ] Architecten & Advies
 		- [ ] Data
+- [ ] Sociaal Domein
+	- [ ] Inkomen en WMO
+	- [ ] Jeugd en Gezin
+	- [ ] Werk en Participatie
+	- [ ] Beleid en Strategie Sociaal Domein
+	- [ ] Programmabureau Leeuwarden Oost
+	- [ ] Sociaal Domein Fryslân

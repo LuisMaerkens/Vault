@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
+                "file": "WoordenBoek/NLX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Organogram Gemeente Leeuwarden"
+              "title": "NLX"
             }
           }
         ]
@@ -225,9 +225,11 @@
   },
   "active": "96081645d2b68b5a",
   "lastOpenFiles": [
-    "Archive/Organogram.canvas",
+    "WoordenBoek/MY-LEX.md",
+    "WoordenBoek/KCC.md",
     "WoordenBoek/Karel = Koraal.md",
     "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
+    "Archive/Organogram.canvas",
     "Algemene informatie/Notes.md",
     "Leerdoelen/I.md",
     "WoordenBoek/CLO koppeling.md",
@@ -251,7 +253,6 @@
     "dingen waar ik nog meer over wil weten/API’s.md",
     "dingen waar ik nog meer over wil weten/Alerts.md",
     "dingen waar ik nog meer over wil weten/Agile.md",
-    "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Logboek/Oktober",
     "Logboek/September",
     "WoordenBoek/Untitled",
