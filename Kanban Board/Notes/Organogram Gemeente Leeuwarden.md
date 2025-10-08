@@ -34,13 +34,14 @@
 		- [ ] Fryslân Werkt
 		- [ ] Werk 1
 		- [ ] Werk 2
+		- [ ] Handhaving
+		- [ ] Inburgering
 	- [ ] Beleid en Strategie Sociaal Domein
 		- [ ] Strategie
 		- [ ] Beleid en Strategie
 		- [ ] Ontwikkeling e
 		- [ ] Bestaanszekerheid
 	- [ ] Programmabureau Leeuwarden Oost
-		- [ ] 
 	- [ ] Sociaal Domein Fryslân
 		- [ ] Inkoop en Contract
 		- [ ] Strategie en Beleid
