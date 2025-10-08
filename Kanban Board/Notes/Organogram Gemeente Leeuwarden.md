@@ -46,9 +46,4 @@
 		- [x] Inkoop en Contract
 		- [x] Strategie en Beleid
 
-```mermaid
-flowchart TD
-Start --> Stop
 
-
-```
