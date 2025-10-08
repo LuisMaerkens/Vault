@@ -1,5 +1,7 @@
 - [ ] SSC
 	- [ ] ICT
+		- [ ] Ho
+		- [ ] Mo
 	- [ ] Financieel & adv.
 	- [ ] Facilitair
 	- [ ] Communicatie en Marketing
