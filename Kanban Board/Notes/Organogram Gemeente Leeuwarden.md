@@ -1,29 +1,36 @@
-- [ ] SSC
-	- [ ] ICT
-		- [ ] Ho
-		- [ ] Mo
-	- [ ] Financieel & adv.
-		- [ ] WOZ en Heffen
-		- [ ] CFA en Innen
-		- [ ] Planning & Control Bedrijfsvoer
-	- [ ] Facilitair Beheer en Documentaire Informatie
-		- [ ] Facilitair Beheer
-	- [ ] Communicatie en Marketing
-		- [ ] Comm. Bedrijfsvoering
-		- [ ] Comm. Ruimtelijk
-		- [ ] Comm. Maatschap
-	- [ ] Mens & organisatie
-		- [ ] Mens en Organisatie A
-		- [ ] Mens en Organisatie S
-	- [ ] Informatie Management
-		- [ ] Functioneel Beheer
-		- [ ] Innovatie & Integratie
-		- [ ] Architecten & Advies
-		- [ ] Data
+- [x] SSC
+	- [x] ICT
+		- [x] Ho
+		- [x] Mo
+	- [x] Financieel & adv.
+		- [x] WOZ en Heffen
+		- [x] CFA en Innen
+		- [x] Planning & Control Bedrijfsvoer
+	- [x] Facilitair Beheer en Documentaire Informatie
+		- [x] Facilitair Beheer
+	- [x] Communicatie en Marketing
+		- [x] Comm. Bedrijfsvoering
+		- [x] Comm. Ruimtelijk
+		- [x] Comm. Maatschap
+	- [x] Mens & organisatie
+		- [x] Mens en Organisatie A
+		- [x] Mens en Organisatie S
+	- [x] Informatie Management
+		- [x] Functioneel Beheer
+		- [x] Innovatie & Integratie
+		- [x] Architecten & Advies
+		- [x] Data
 - [ ] Sociaal Domein
 	- [ ] Inkomen en WMO
+		- [ ] WMO
+		- [ ] Inkomen 1
+		- [ ] Inkomen 2
+		- [ ] Inkomen 3
 	- [ ] Jeugd en Gezin
+		- [ ] Jeugdexpertteam
+		- [ ] Jongerenteam
 	- [ ] Werk en Participatie
+		- [ ] 
 	- [ ] Beleid en Strategie Sociaal Domein
 	- [ ] Programmabureau Leeuwarden Oost
 	- [ ] Sociaal Domein Fryslân
