@@ -32,5 +32,7 @@
 	- [ ] Werk en Participatie
 		- [ ] 
 	- [ ] Beleid en Strategie Sociaal Domein
+		- [ ] Strategie
+		- [ ] Beleid en Stra
 	- [ ] Programmabureau Leeuwarden Oost
 	- [ ] Sociaal Domein Fryslân
