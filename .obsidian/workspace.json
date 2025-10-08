@@ -170,13 +170,13 @@
             }
           },
           {
-            "id": "54ef01c769b04866",
+            "id": "f37acd88cdc6a87f",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "mermaid-toolbar-view"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -225,18 +225,18 @@
   },
   "active": "96081645d2b68b5a",
   "lastOpenFiles": [
+    "Main Workspace.canvas",
+    "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
     "WoordenBoek/Haal Centraal.md",
     "WoordenBoek/GZAC.md",
     "WoordenBoek/Karel = Koraal.md",
     "WoordenBoek/NLX.md",
     "WoordenBoek/MY-LEX.md",
     "WoordenBoek/KCC.md",
-    "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
     "Archive/Organogram.canvas",
     "Algemene informatie/Notes.md",
     "Leerdoelen/I.md",
     "WoordenBoek/CLO koppeling.md",
-    "Main Workspace.canvas",
     "Leerdoelen/II.md",
     "Logboek/Oktober/06-10-2025.md",
     "Kanban Board/Kanban board.md",
@@ -252,7 +252,6 @@
     "dingen waar ik nog meer over wil weten/Kanban.md",
     "dingen waar ik nog meer over wil weten/AWS.md",
     "dingen waar ik nog meer over wil weten/Active_Directory.md",
-    "dingen waar ik nog meer over wil weten/Automation.md",
     "Logboek/Oktober",
     "Logboek/September",
     "WoordenBoek/Untitled",

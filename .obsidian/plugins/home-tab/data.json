@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
-      "timestamp": 1759913204165
+      "timestamp": 1759925343677
+    },
+    {
+      "filepath": "Main Workspace.canvas",
+      "timestamp": 1759925342372
     },
     {
       "filepath": "WoordenBoek/Haal Centraal.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "WoordenBoek/Karel = Koraal.md",
       "timestamp": 1759912951257
-    },
-    {
-      "filepath": "WoordenBoek/NLX.md",
-      "timestamp": 1759912950777
     }
   ],
   "bookmarkedFileStore": [
