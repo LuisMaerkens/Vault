@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dingen waar ik nog meer over wil weten/AWS.md",
+                "file": "Algemene informatie/Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AWS"
+              "title": "Notes"
             }
           }
         ]
@@ -225,6 +225,7 @@
   },
   "active": "c696417224153887",
   "lastOpenFiles": [
+    "dingen waar ik nog meer over wil weten/AWS.md",
     "dingen waar ik nog meer over wil weten/Active_Directory.md",
     "WoordenBoek/GZAC.md",
     "Algemene informatie/Notes.md",
@@ -252,7 +253,6 @@
     "Logboek/September/02-09-2025.md",
     "Logboek/Oktober/03-10-2025.md",
     "dingen waar ik nog meer over wil weten/Kanban.md",
-    "dingen waar ik nog meer over wil weten/AWS.md",
     "Logboek/Oktober",
     "Logboek/September",
     "WoordenBoek/Untitled",
