@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algemene informatie/Notes.md",
+                "file": "WoordenBoek/GZAC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "GZAC"
             }
           }
         ]
@@ -223,8 +223,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c696417224153887",
+  "active": "8dcbc8ae5a7688d0",
   "lastOpenFiles": [
+    "Algemene informatie/Notes.md",
     "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
     "Main Workspace.canvas",
     "Kanban Board/Kanban board.md",
@@ -238,7 +239,6 @@
     "WoordenBoek/NLX.md",
     "WoordenBoek/MY-LEX.md",
     "WoordenBoek/KCC.md",
-    "Algemene informatie/Notes.md",
     "Leerdoelen/I.md",
     "WoordenBoek/CLO koppeling.md",
     "Leerdoelen/II.md",
