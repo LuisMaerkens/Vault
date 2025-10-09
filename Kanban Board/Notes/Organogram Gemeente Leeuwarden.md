@@ -20,12 +20,25 @@
 		- [x] Mens en Organisatie S
 	- [x] Informatie Management
 		- [x] Functioneel Beheer
+			- [x] Publieke dienstverl.
+			- [x] Sociale dienstverl.
+			- [x] Fysieke dienstverl.
+			- [x] Generieke Voorz.
 		- [x] Innovatie & Integratie
 			- [x] RPA
 			- [x] DWO
 			- [x] Zaakgericht werken en systeemintegratie
 		- [x] Architecten & Advies
+			- [x] Architectuur
+			- [x] Recordman./archief
+			- [x] I-advies
+			- [x] Projectl.
+			- [x] Security
 		- [x] Data
+			- [x] Statistiek en onderz.
+			- [x] Data science
+			- [x] Recordsbeheer
+			- [x] Datawarehouse
 - [x] Sociaal Domein
 	- [x] Inkomen en WMO
 		- [x] WMO
