@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WoordenBoek/GZAC.md",
+                "file": "dingen waar ik nog meer over wil weten/AWS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GZAC"
+              "title": "AWS"
             }
           }
         ]
@@ -223,8 +223,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8dcbc8ae5a7688d0",
+  "active": "c696417224153887",
   "lastOpenFiles": [
+    "dingen waar ik nog meer over wil weten/Active_Directory.md",
+    "WoordenBoek/GZAC.md",
     "Algemene informatie/Notes.md",
     "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
     "Main Workspace.canvas",
@@ -234,7 +236,6 @@
     "Logboek/Oktober/07-10-2025.md",
     "Logboek/Oktober/06-10-2025.md",
     "WoordenBoek/Haal Centraal.md",
-    "WoordenBoek/GZAC.md",
     "WoordenBoek/Karel = Koraal.md",
     "WoordenBoek/NLX.md",
     "WoordenBoek/MY-LEX.md",
