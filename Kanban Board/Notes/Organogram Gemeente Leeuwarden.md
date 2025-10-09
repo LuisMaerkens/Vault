@@ -1,7 +1,10 @@
 - [x] SSC
 	- [x] ICT
 		- [x] Ho
+			- [x] techn. appl. beh.
+			- [x] Databaseadministrator
 		- [x] Mo
+			- [x] Servicedesk
 	- [x] Financieel & adv.
 		- [x] WOZ en Heffen
 		- [x] CFA en Innen
@@ -18,6 +21,9 @@
 	- [x] Informatie Management
 		- [x] Functioneel Beheer
 		- [x] Innovatie & Integratie
+			- [x] RPA
+			- [x] DWO
+			- [x] Zaakgericht werken en systeemintegratie
 		- [x] Architecten & Advies
 		- [x] Data
 - [x] Sociaal Domein
