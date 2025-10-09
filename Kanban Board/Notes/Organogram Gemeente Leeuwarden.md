@@ -64,5 +64,5 @@
 	- [x] Sociaal Domein Fryslân
 		- [x] Inkoop en Contract
 		- [x] Strategie en Beleid
-
+- [ ] Fysiek Domein
 
