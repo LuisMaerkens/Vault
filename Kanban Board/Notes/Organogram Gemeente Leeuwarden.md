@@ -65,4 +65,19 @@
 		- [x] Inkoop en Contract
 		- [x] Strategie en Beleid
 - [ ] Fysiek Domein
+	- [ ] Duurzame Omgevingskwaliteit
+		- [ ] Energie
+		- [ ] Plannen en Vergunningen
+		- [ ] Toezicht en Advies, Bo
+		- [ ] Advies en Ontwikkeling
+	- [ ] Projectbureau
+		- [ ] Zuidlanden
+			- [ ] Middelsee
+		- [ ] Ondersteuning PMB
+	- [ ] Gebiedsontwikkeling, Economie en Strategische Staf
+	- [ ] Inrichting en Beheer Buitenruimte
+	- [ ] Historisch Centrum Leeuwarden
+	- [ ] Bedrijfsvoering en Advies Sociaal Domein
+		- [ ] Advies e
+		- [ ] Backoffice
 
