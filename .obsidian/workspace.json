@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logboek/Oktober/09-10-2025.md",
+                "file": "Logboek/Uren.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "09-10-2025"
+              "title": "Uren"
             }
           }
         ]
@@ -178,6 +178,16 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "385ba96c9ec77326",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 2
@@ -225,11 +235,13 @@
   },
   "active": "28f59470a6e757f6",
   "lastOpenFiles": [
+    "Main Workspace.canvas",
+    "Logboek/Uren.md",
+    "Logboek/Oktober/09-10-2025.md",
     "Logboek/Oktober/08-10-2025.md",
     "Logboek/Oktober/07-10-2025.md",
     "Templates/Logboek Template.md",
     "Logboek/Oktober/06-10-2025.md",
-    "Logboek/Oktober/09-10-2025.md",
     "Logboek/Oktober/10-10-2025.md",
     "Logboek/Oktober/03-10-2025.md",
     "WoordenBoek/CLO koppeling.md",
@@ -238,7 +250,6 @@
     "dingen waar ik nog meer over wil weten/Active_Directory.md",
     "WoordenBoek/GZAC.md",
     "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
-    "Main Workspace.canvas",
     "Kanban Board/Kanban board.md",
     "Archive/Organogram.canvas",
     "WoordenBoek/Haal Centraal.md",
@@ -251,8 +262,6 @@
     "Logboek/Oktober/Oktober.md",
     "Logboek/Oktober/01-10-2025.md",
     "Logboek/September/September.md",
-    "Logboek/September/01-09-2025.md",
-    "Logboek/September/05-09-2025.md",
     "Logboek/Oktober",
     "Logboek/September",
     "WoordenBoek/Untitled",
