@@ -1,1 +1,3 @@
 Koraal is een Nederlandse instelling die specialistische hulp en begeleiding biedt aan jongeren (4-23 jaar) met complexe gedrags- en/of psychiatrische problemen, vaak in combinatie met een licht verstandelijke beperking. De hulp wordt op maat geleverd, met een voorkeur voor ambulante zorg in de vertrouwde thuisomgeving, maar ook residentiële zorg als dat nodig is. Het doel is de jeugdige en het gezin te ondersteunen om sterker te worden en zelfstandig in de maatschappij te kunnen functioneren, met nadruk op de eigen kracht en een traumagerichte aanpak.
+
+[[WoordenBoek]]

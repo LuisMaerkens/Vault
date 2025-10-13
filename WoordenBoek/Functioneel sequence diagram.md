@@ -9,3 +9,5 @@
 - **Voordelen:**
     - Begrijpelijk voor niet-technische stakeholders.
     - Helpt bij het definiëren van use cases en gebruikerservaring.
+
+[[WoordenBoek]]

@@ -11,24 +11,15 @@
             "id": "c5acd5f17107ac46",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Board/Kanban board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "WoordenBoek/Functioneel sequence diagram.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban board"
+              "icon": "lucide-file",
+              "title": "Functioneel sequence diagram"
             }
           }
         ]
@@ -242,15 +233,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c5acd5f17107ac46",
+  "active": "d3ec982191e5b988",
   "lastOpenFiles": [
+    "WoordenBoek/Functioneel sequence diagram.md",
+    "WoordenBoek/KCC.md",
+    "WoordenBoek/Karel = Koraal.md",
+    "WoordenBoek/Haal Centraal.md",
+    "WoordenBoek/Technische sequence diagram.md",
+    "WoordenBoek/DDS.md",
+    "Kanban Board/Kanban board.md",
     "Templates/Logboek Template.md",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
-    "Kanban Board/Kanban board.md",
     "Algemene informatie/Notes.md",
     "WoordenBoek/(LV,BV) WOZ.md",
-    "WoordenBoek/Technische sequence diagram.md",
-    "WoordenBoek/Functioneel sequence diagram.md",
     "kennismakings profielen/Christiaan Meijer, Koos Bolwijn.md",
     "Archive/Lijst van mensen.md",
     "Logboek/Uren.md",
@@ -267,11 +262,7 @@
     "WoordenBoek/GZAC.md",
     "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
     "Archive/Organogram.canvas",
-    "WoordenBoek/Haal Centraal.md",
-    "WoordenBoek/Karel = Koraal.md",
     "WoordenBoek/NLX.md",
-    "WoordenBoek/MY-LEX.md",
-    "WoordenBoek/KCC.md",
     "Logboek/Oktober",
     "Logboek/September",
     "WoordenBoek/Untitled",
