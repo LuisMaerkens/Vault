@@ -11,10 +11,24 @@
             "id": "c5acd5f17107ac46",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "kanban",
+              "state": {
+                "file": "Kanban Board/Kanban board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban board"
             }
           }
         ]
@@ -230,6 +244,7 @@
   },
   "active": "c5acd5f17107ac46",
   "lastOpenFiles": [
+    "Templates/Logboek Template.md",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Kanban Board/Kanban board.md",
     "Algemene informatie/Notes.md",
@@ -243,7 +258,6 @@
     "Logboek/Oktober/09-10-2025.md",
     "Logboek/Oktober/08-10-2025.md",
     "Logboek/Oktober/07-10-2025.md",
-    "Templates/Logboek Template.md",
     "Logboek/Oktober/06-10-2025.md",
     "Logboek/Oktober/10-10-2025.md",
     "Logboek/Oktober/03-10-2025.md",

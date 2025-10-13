@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Kanban Board/Notes/Stageverslag Lay-Out design.md",
-      "timestamp": 1760352021216
+      "filepath": "Kanban Board/Kanban board.md",
+      "timestamp": 1760352904188
     },
     {
-      "filepath": "Kanban Board/Kanban board.md",
-      "timestamp": 1760351969672
+      "filepath": "Templates/Logboek Template.md",
+      "timestamp": 1760352888941
+    },
+    {
+      "filepath": "Kanban Board/Notes/Stageverslag Lay-Out design.md",
+      "timestamp": 1760352021216
     },
     {
       "filepath": "Algemene informatie/Notes.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "WoordenBoek/(LV,BV) WOZ.md",
       "timestamp": 1760341879166
-    },
-    {
-      "filepath": "WoordenBoek/Technische sequence diagram.md",
-      "timestamp": 1760341834240
     }
   ],
   "bookmarkedFileStore": [
