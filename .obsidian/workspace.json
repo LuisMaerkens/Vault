@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WoordenBoek/(LV,BV) WOZ.md",
+                "file": "Algemene informatie/Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(LV,BV) WOZ"
+              "title": "Notes"
             }
           }
         ]
@@ -233,7 +233,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3ec982191e5b988",
+  "active": "c5acd5f17107ac46",
   "lastOpenFiles": [
     "WoordenBoek/(LV,BV) WOZ.md",
     "WoordenBoek/Technische sequence diagram.md",
