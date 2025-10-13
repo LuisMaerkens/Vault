@@ -14,7 +14,8 @@
     // maak een canvas element
     const canvas = this.container.createEl("canvas");
 
-    // teken de chart met Chart.js
+    // teken de 
+    chart met Chart.js
     new Chart(canvas.getContext("2d"), {
         type: "bar",
         data: {
