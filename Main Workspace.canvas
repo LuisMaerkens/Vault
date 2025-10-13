@@ -181,8 +181,6 @@
 		{"id":"608c9f31dafc9a98","type":"file","file":"fotos/Logos/Pasted image 20250910150818.png","x":-3123,"y":-280,"width":103,"height":103},
 		{"id":"97ee088a75edae86","type":"text","text":"SharePoint","x":-3287,"y":-229,"width":250,"height":60},
 		{"id":"261c5a432c91518f","type":"text","text":"**Microsoft Lists** helpt bij **het organiseren en bijhouden van informatie** in gestructureerde lijsten. Het ondersteunt **projecttracking, inventarisbeheer en workflowbeheer**. Gebruikers kunnen **custom views, filters en integraties met andere apps** gebruiken. Lists zorgt dat teams **overzicht en controle** behouden over hun data.","x":-2898,"y":-47,"width":519,"height":154},
-		{"id":"b37dd9e80258873c","type":"text","text":"<h1 style=\"text-align:center; font-weight: bold; color: #6da7c0;\">DAILY</h1>","x":-2140,"y":820,"width":280,"height":50},
-		{"id":"461ee245b29fd74a","type":"text","text":"1. CLO\n\n","x":-2140,"y":870,"width":280,"height":330},
 		{"id":"19c57bb8d52e7557","type":"text","text":"**Microsoft Stream** is een platform voor **video-opslag en -deling** binnen organisaties. Het maakt het makkelijk om **trainingen, presentaties en teamvideo’s** te uploaden en te bekijken. Stream ondersteunt **zoeken in video’s en transcripties** om informatie snel terug te vinden. Zo kunnen teams **kennis efficiënt delen en leren**.","x":-3473,"y":288,"width":436,"height":192},
 		{"id":"4d6d0f132cba8955","type":"text","text":"Stream","x":-3561,"y":77,"width":250,"height":60},
 		{"id":"a1d8837f6d8ac78b","type":"file","file":"fotos/Logos/Pasted image 20250910150610.png","x":-3413,"y":77,"width":122,"height":115},
@@ -223,7 +221,9 @@
 		{"id":"89375bba4daa5cb3","type":"text","text":"Sway","x":-3686,"y":-1420,"width":250,"height":60},
 		{"id":"e84c60ba503792d9","type":"text","text":"**CRM and ERP** combineren systemen voor klantbeheer en bedrijfsprocessen in één platform. **CRM** helpt bij het beheren van klantrelaties, verkoopkansen en interacties. **ERP** optimaliseert interne processen zoals financiën, voorraad en productie. Samen zorgen **CRM and ERP** voor betere samenwerking, inzicht en efficiëntie binnen een organisatie","x":-3961,"y":-1200,"width":439,"height":201},
 		{"id":"18b248d8e582439d","type":"text","text":"CRM AND ERP","x":-3873,"y":-943,"width":250,"height":60},
-		{"id":"b8ab554504f5dddd","type":"text","text":"Office Online","x":-4186,"y":-1343,"width":250,"height":60}
+		{"id":"b8ab554504f5dddd","type":"text","text":"Office Online","x":-4186,"y":-1343,"width":250,"height":60},
+		{"id":"b37dd9e80258873c","type":"text","text":"<h1 style=\"text-align:center; font-weight: bold; color: #6da7c0;\">DAILY</h1>","x":-2140,"y":820,"width":280,"height":50},
+		{"id":"461ee245b29fd74a","type":"text","text":"1.\n\n","x":-2140,"y":870,"width":280,"height":330}
 	],
 	"edges":[
 		{"id":"efc8c33647e39ef3","fromNode":"58b5b435da083b49","fromSide":"top","toNode":"6d8eaecac202bc3d","toSide":"bottom","toEnd":"none"},
