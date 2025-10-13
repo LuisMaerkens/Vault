@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "WoordenBoek/(LV,BV) WOZ.md",
+      "timestamp": 1760341879166
+    },
+    {
+      "filepath": "WoordenBoek/Technische sequence diagram.md",
+      "timestamp": 1760341834240
+    },
+    {
+      "filepath": "WoordenBoek/Functioneel sequence diagram.md",
+      "timestamp": 1760341776022
+    },
+    {
       "filepath": "kennismakings profielen/Christiaan Meijer, Koos Bolwijn.md",
       "timestamp": 1760337999803
     },
     {
       "filepath": "Archive/Lijst van mensen.md",
       "timestamp": 1760337993200
-    },
-    {
-      "filepath": "Logboek/Uren.md",
-      "timestamp": 1760337980168
     }
   ],
   "bookmarkedFileStore": [
