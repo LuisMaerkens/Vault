@@ -12,6 +12,9 @@ eigenrollen en werkzaamheden
 	Stageweek 1 
 	Stageweek 2 
 	Stageweek 3 
+	...
+	...
+	...
 leerdoelen
 Documentatie
 	Documentatie voorwoord (hier heb ik nog een andere naam voor nodig)
