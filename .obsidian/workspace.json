@@ -233,8 +233,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d3ec982191e5b988",
+  "active": "c5acd5f17107ac46",
   "lastOpenFiles": [
+    "WoordenBoek.md",
     "WoordenBoek/Functioneel sequence diagram.md",
     "WoordenBoek/KCC.md",
     "WoordenBoek/Karel = Koraal.md",
@@ -262,7 +263,6 @@
     "WoordenBoek/GZAC.md",
     "Kanban Board/Notes/Organogram Gemeente Leeuwarden.md",
     "Archive/Organogram.canvas",
-    "WoordenBoek/NLX.md",
     "Logboek/Oktober",
     "Logboek/September",
     "WoordenBoek/Untitled",
