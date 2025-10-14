@@ -8,13 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e16fe1bec47d602",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Algemene informatie/Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
@@ -165,23 +170,13 @@
             }
           },
           {
-            "id": "53a468e1b548d19e",
+            "id": "54ef01c769b04866",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
-            "id": "385ba96c9ec77326",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -207,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,8 +224,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4e16fe1bec47d602",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Algemene informatie/Notes.md",
     "Archive/charts 1.md",
     "Archive/charts.md",
     "Main Workspace.canvas",
@@ -243,7 +240,6 @@
     "Kanban Board/Kanban board.md",
     "Templates/Logboek Template.md",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
-    "Algemene informatie/Notes.md",
     "WoordenBoek/(LV,BV) WOZ.md",
     "kennismakings profielen/Christiaan Meijer, Koos Bolwijn.md",
     "Archive/Lijst van mensen.md",
