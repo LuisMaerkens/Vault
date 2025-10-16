@@ -21,9 +21,6 @@ stuff berichten xml
 
 # gateway/framework verschil
 
-
-
-
 # **intake**
 
 citypermit to key2dds
@@ -32,15 +29,6 @@ migeren naar WeAreFrank!
 
 0 meeting
 -   De 0-meting (ook wel een nul-meting genoemd) kan voor vrijwel elk onderzoek ingezetworden. Het geeft een beeld van de huidige situatie vóórdat er reclame of marketing ingezet wordt.
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -60,25 +48,9 @@ Ik weet
 
 
 
-
-
-
-
-
-
 azure - cloud system
 
-
-
-
-
-
-
-
-
-
 Link:
-
 
 https://l-a-asr-1000:8443/opentunnel/config/system/synchronization
 
@@ -87,14 +59,16 @@ https://l-a-asr-1000:8443/opentunnel/runtime/ui
 R:\SSC IM\IM ST Koppelingen\OT  - TO koppelingen
 
 
-
-
-
 GBAV
 
-
-
 [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+
+
+
+
+
+
+
 
 
 
