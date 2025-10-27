@@ -11,10 +11,15 @@
             "id": "d443c128bf38c3d3",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Algemene informatie/Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
@@ -221,6 +226,14 @@
   },
   "active": "d443c128bf38c3d3",
   "lastOpenFiles": [
+    "Algemene informatie/REX.md",
+    "Algemene informatie/RPA.md",
+    "Logboek/Oktober/13-10-2025.md",
+    "Logboek/Oktober/17-10-2025.md",
+    "Logboek/Oktober/16-10-2025.md",
+    "Logboek/Oktober/15-10-2025.md",
+    "Logboek/Oktober/14-10-2025.md",
+    "Logboek/Oktober/Oktober.md",
     "Logboek/Oktober/10-10-2025.md",
     "Logboek/Oktober/09-10-2025.md",
     "Algemene informatie/Notes.md",
@@ -240,14 +253,6 @@
     "WoordenBoek/(LV,BV) WOZ.md",
     "kennismakings profielen/Christiaan Meijer, Koos Bolwijn.md",
     "Archive/Lijst van mensen.md",
-    "Logboek/Uren.md",
-    "Logboek/Oktober/08-10-2025.md",
-    "Logboek/Oktober/07-10-2025.md",
-    "Logboek/Oktober/06-10-2025.md",
-    "Logboek/Oktober/03-10-2025.md",
-    "WoordenBoek/CLO koppeling.md",
-    "dingen waar ik nog meer over wil weten/AWS.md",
-    "dingen waar ik nog meer over wil weten/Active_Directory.md",
     "Archive/Organogram.canvas",
     "Logboek/Oktober",
     "Logboek/September",
