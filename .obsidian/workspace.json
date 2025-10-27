@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dingen waar ik nog meer over wil weten/Key2DDS.md",
+                "file": "Algemene informatie/Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Key2DDS"
+              "title": "Notes"
             }
           }
         ]
@@ -226,6 +226,7 @@
   },
   "active": "d443c128bf38c3d3",
   "lastOpenFiles": [
+    "dingen waar ik nog meer over wil weten/Key2DDS.md",
     "dingen waar ik nog meer over wil weten/Kanban.md",
     "dingen waar ik nog meer over wil weten/Jenkins.md",
     "dingen waar ik nog meer over wil weten/Integration_Testing.md",
@@ -251,7 +252,6 @@
     "dingen waar ik nog meer over wil weten/CityPermit.md",
     "dingen waar ik nog meer over wil weten/CI_CD.md",
     "dingen waar ik nog meer over wil weten/Certificates.md",
-    "dingen waar ik nog meer over wil weten/Branching.md",
     "Main Workspace.canvas",
     "Archive/Organogram.canvas",
     "Logboek/Oktober",

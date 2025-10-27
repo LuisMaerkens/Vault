@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Algemene informatie/Notes.md",
+      "timestamp": 1761560710603
+    },
+    {
       "filepath": "dingen waar ik nog meer over wil weten/Key2DDS.md",
       "timestamp": 1761557839909
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "dingen waar ik nog meer over wil weten/Integration_Testing.md",
       "timestamp": 1761557307036
-    },
-    {
-      "filepath": "dingen waar ik nog meer over wil weten/Infrastructure_as_Code.md",
-      "timestamp": 1761557306007
     }
   ],
   "bookmarkedFileStore": [
