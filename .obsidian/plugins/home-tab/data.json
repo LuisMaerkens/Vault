@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Main Workspace.canvas",
+      "timestamp": 1761552397744
+    },
+    {
       "filepath": "Algemene informatie/Notes.md",
-      "timestamp": 1761551769475
+      "timestamp": 1761552120574
+    },
+    {
+      "filepath": "Kanban Board/Kanban board.md",
+      "timestamp": 1761552012822
     },
     {
       "filepath": "Algemene informatie/REX.md",
@@ -34,14 +42,6 @@
     {
       "filepath": "Algemene informatie/RPA.md",
       "timestamp": 1761551767629
-    },
-    {
-      "filepath": "Logboek/Oktober/13-10-2025.md",
-      "timestamp": 1761551441825
-    },
-    {
-      "filepath": "Logboek/Oktober/17-10-2025.md",
-      "timestamp": 1761551438501
     }
   ],
   "bookmarkedFileStore": [
