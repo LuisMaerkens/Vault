@@ -11,17 +11,15 @@
             "id": "d443c128bf38c3d3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": -2163.718140631623,
-                  "y": -3731.71272342755,
-                  "zoom": -0.6953857170443494
-                }
+                "file": "dingen waar ik nog meer over wil weten/Containerization.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
+              "icon": "lucide-file",
+              "title": "Containerization"
             }
           }
         ]
@@ -228,6 +226,19 @@
   },
   "active": "d443c128bf38c3d3",
   "lastOpenFiles": [
+    "dingen waar ik nog meer over wil weten/Cloud.md",
+    "dingen waar ik nog meer over wil weten/Code_Review.md",
+    "dingen waar ik nog meer over wil weten/CityPermit.md",
+    "dingen waar ik nog meer over wil weten/CI_CD.md",
+    "dingen waar ik nog meer over wil weten/Certificates.md",
+    "dingen waar ik nog meer over wil weten/Branching.md",
+    "dingen waar ik nog meer over wil weten/BI.md",
+    "dingen waar ik nog meer over wil weten/Azure.md",
+    "dingen waar ik nog meer over wil weten/Backups.md",
+    "dingen waar ik nog meer over wil weten/AWS.md",
+    "dingen waar ik nog meer over wil weten/Active_Directory.md",
+    "Algemene informatie/ssc.md",
+    "Main Workspace.canvas",
     "Algemene informatie/Notes.md",
     "Kanban Board/Kanban board.md",
     "Algemene informatie/REX.md",
@@ -242,19 +253,6 @@
     "Logboek/Oktober/09-10-2025.md",
     "Archive/charts 1.md",
     "Archive/charts.md",
-    "Main Workspace.canvas",
-    "WoordenBoek/Functioneel sequence diagram.md",
-    "WoordenBoek.md",
-    "WoordenBoek/KCC.md",
-    "WoordenBoek/Karel = Koraal.md",
-    "WoordenBoek/Haal Centraal.md",
-    "WoordenBoek/Technische sequence diagram.md",
-    "WoordenBoek/DDS.md",
-    "Templates/Logboek Template.md",
-    "Kanban Board/Notes/Stageverslag Lay-Out design.md",
-    "WoordenBoek/(LV,BV) WOZ.md",
-    "kennismakings profielen/Christiaan Meijer, Koos Bolwijn.md",
-    "Archive/Lijst van mensen.md",
     "Archive/Organogram.canvas",
     "Logboek/Oktober",
     "Logboek/September",
