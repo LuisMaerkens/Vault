@@ -11,10 +11,15 @@
             "id": "e8c89ca6fb539e01",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Algemene informatie/Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
@@ -173,9 +178,19 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "81032b70de5da6a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -197,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +235,7 @@
   },
   "active": "e8c89ca6fb539e01",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
     "Algemene informatie/Notes.md",
     "dingen waar ik nog meer over wil weten/Key2DDS.md",
     "dingen waar ik nog meer over wil weten/Kanban.md",
@@ -246,7 +261,6 @@
     "dingen waar ik nog meer over wil weten/Cloud.md",
     "dingen waar ik nog meer over wil weten/Code_Review.md",
     "dingen waar ik nog meer over wil weten/CityPermit.md",
-    "dingen waar ik nog meer over wil weten/CI_CD.md",
     "Main Workspace.canvas",
     "Archive/Organogram.canvas",
     "Logboek/Oktober",
