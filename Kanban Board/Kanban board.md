@@ -25,14 +25,12 @@ kanban-plugin: board
 
 ## Doing
 
+- [ ] [[Stageverslag Lay-Out design]]
 
 
 ## On Hold
 
 - [ ] [[Stageverslag week 3]]
-- [ ] [[Stageverslag Lay-Out design]]
-- [ ] Bruno Research
-- [ ] WAF verdiepen
 
 
 ## Checking
@@ -47,6 +45,8 @@ kanban-plugin: board
 
 - [ ] MS365 research
 - [ ] appenkooi (Side Quest)
+- [ ] WAF verdiepen
+- [ ] Bruno Research
 
 
 ## Special

@@ -1,29 +1,32 @@
 # **Inhoudsopgave**
 
-stageverslag 
-inhoudsopgave 
-voorword 
-Gemeente leeuwarden 
-	wie is gemeente leeuwarden 
-	agile werken / scrum / kanban 
-		weke vormen van agile werken zijn er 
-eigenrollen en werkzaamheden 
-	Stageweek 1 tot 4 
-	Stageweek 1 
-	Stageweek 2 
-	Stageweek 3 
-	...
-	...
-	...
-leerdoelen
-Documentatie
-	Documentatie voorwoord (hier heb ik nog een andere naam voor nodig)
-	algemene informatie
-		Documentatie
-		woordenboek
-		Archive
-	logboek/uren in ander document
-		
-reflectie
-conclusie
-bronnen
+- **Voorwoord**
+    
+- **Gemeente Leeuwarden**
+    - Wie is Gemeente Leeuwarden
+    - Agile werken / Scrum / Kanban
+        - Welke vormen van agile werken zijn er
+- **Eigen rollen en werkzaamheden**
+    - Overzicht stageweken
+        - Stageweek 1
+        - Stageweek 2
+        - Stageweek 3
+        - ...
+- **Leerdoelen**
+    - Persoonlijke leerdoelen
+    - Professionele leerdoelen
+    - Evaluatie van de leerdoelen
+- **Documentatie**
+    - _[Nieuwe titel]_ → bijvoorbeeld: **“Projectdocumentatie”** of **“Technische documentatie”**
+    - Algemene informatie
+        - Documentatie
+        - Woordenboek
+        - Archief
+- **Reflectie**
+    - Wat heb ik geleerd
+    - Wat ging goed / wat kon beter
+- **Conclusie**
+- **Bronnen**
+- _(Optioneel maar vaak handig)_ **Bijlagen**
+    - Logboek / urenoverzicht (verwijzing naar apart document)
+    - Screenshots / codevoorbeelden / visuals
