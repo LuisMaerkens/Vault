@@ -11,17 +11,15 @@
             "id": "54023b76dbdb87fd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": -267.7586947274798,
-                  "y": -56.62518132250284,
-                  "zoom": -1.0287190503776829
-                }
+                "file": "Algemene informatie/Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
@@ -242,6 +240,7 @@
   "active": "54023b76dbdb87fd",
   "lastOpenFiles": [
     "Kanban Board/Kanban board.md",
+    "Main Workspace.canvas",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Archive/sneek vergadering.md",
     "Logboek/November/03-11-2025.md",
@@ -253,7 +252,6 @@
     "Logboek/Oktober/28-10-2025.md",
     "Logboek/Oktober/27-10-2025.md",
     "Algemene informatie/Notes.md",
-    "Main Workspace.canvas",
     "Logboek.md",
     "Logboek/Uren.md",
     "Logboek/Oktober/17-10-2025.md",
@@ -268,7 +266,6 @@
     "dingen waar ik nog meer over wil weten/Kanban.md",
     "dingen waar ik nog meer over wil weten/Jenkins.md",
     "dingen waar ik nog meer over wil weten/Integration_Testing.md",
-    "dingen waar ik nog meer over wil weten/Infrastructure_as_Code.md",
     "Archive/Organogram.canvas",
     "Logboek/Oktober",
     "Logboek/September",

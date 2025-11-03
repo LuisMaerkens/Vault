@@ -20,7 +20,6 @@ kanban-plugin: board
 - [ ] Stage verslag bronnen
 - [ ] [[Stage verslag Documentatie]]
 - [ ] wordenboek orgeniseren
-- [ ] Documentatie sneek bekijken
 
 
 ## Doing
@@ -47,6 +46,7 @@ kanban-plugin: board
 - [ ] appenkooi (Side Quest)
 - [ ] WAF verdiepen
 - [ ] Bruno Research
+- [ ] Documentatie sneek bekijken
 
 
 ## Special
