@@ -8,20 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb9278aa6283710c",
+            "id": "185a3d8553b34158",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -2218.9588528678305,
-                  "zoom": -3.028719050377683
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -125,23 +118,6 @@
             }
           },
           {
-            "id": "a844f2d051659648",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main Workspace.canvas",
-                "viewState": {
-                  "x": -1990.973899828157,
-                  "y": 1029.5845690653032,
-                  "zoom": 0.22761047314122868
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Main Workspace"
-            }
-          },
-          {
             "id": "d8807e7c65b01f1d",
             "type": "leaf",
             "state": {
@@ -212,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "f3d2bf990fd9e497",
@@ -256,8 +232,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "eb9278aa6283710c",
+  "active": "185a3d8553b34158",
   "lastOpenFiles": [
+    "Main Workspace.canvas",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Kanban Board/Kanban board.md",
     "Logboek/Oktober/28-10-2025.md",
@@ -283,8 +260,6 @@
     "dingen waar ik nog meer over wil weten/Firewall.md",
     "dingen waar ik nog meer over wil weten/ETL.md",
     "dingen waar ik nog meer over wil weten/Encryption.md",
-    "dingen waar ik nog meer over wil weten/Elasticsearch.md",
-    "Main Workspace.canvas",
     "Archive/Organogram.canvas",
     "Logboek/Oktober",
     "Logboek/September",
