@@ -58,7 +58,6 @@ https://l-a-asr-1000:8443/opentunnel/runtime/ui
 
 R:\SSC IM\IM ST Koppelingen\OT  - TO koppelingen
 
-
 GBAV
 
 [Manifesto for Agile Software Development](https://agilemanifesto.org/)
@@ -68,12 +67,6 @@ GBAV
 
 
 
-
-
-```mermaid
-gantt 
-
-```
 
 
 

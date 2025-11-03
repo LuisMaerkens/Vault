@@ -11,10 +11,15 @@
             "id": "185a3d8553b34158",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Logboek/November/03-11-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "03-11-2025"
             }
           }
         ]
@@ -234,11 +239,18 @@
   },
   "active": "185a3d8553b34158",
   "lastOpenFiles": [
+    "Logboek/November/November.md",
+    "Logboek/November/03-11-2025.md",
+    "Logboek/Oktober/31-10-2025.md",
+    "Logboek/November",
+    "Logboek/Oktober/30-10-2025.md",
+    "Logboek/Oktober/29-10-2025.md",
+    "Logboek/Oktober/28-10-2025.md",
+    "Logboek/Oktober/27-10-2025.md",
+    "Algemene informatie/Notes.md",
     "Main Workspace.canvas",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Kanban Board/Kanban board.md",
-    "Logboek/Oktober/28-10-2025.md",
-    "Logboek/Oktober/27-10-2025.md",
     "Logboek.md",
     "Logboek/Uren.md",
     "Logboek/Oktober/17-10-2025.md",
@@ -248,7 +260,6 @@
     "Logboek/Oktober/10-10-2025.md",
     "Logboek/Oktober/14-10-2025.md",
     "Logboek/Oktober/09-10-2025.md",
-    "Algemene informatie/Notes.md",
     "Untitled Kanban.md",
     "dingen waar ik nog meer over wil weten/Key2DDS.md",
     "dingen waar ik nog meer over wil weten/Kanban.md",
@@ -256,10 +267,6 @@
     "dingen waar ik nog meer over wil weten/Integration_Testing.md",
     "dingen waar ik nog meer over wil weten/Infrastructure_as_Code.md",
     "dingen waar ik nog meer over wil weten/Git.md",
-    "dingen waar ik nog meer over wil weten/GCP.md",
-    "dingen waar ik nog meer over wil weten/Firewall.md",
-    "dingen waar ik nog meer over wil weten/ETL.md",
-    "dingen waar ik nog meer over wil weten/Encryption.md",
     "Archive/Organogram.canvas",
     "Logboek/Oktober",
     "Logboek/September",
@@ -274,7 +281,6 @@
     "fotos/Kanban fotos/image-1.png",
     "fotos/Kanban fotos/image.png",
     "fotos/Kanban fotos",
-    "Kanban Board/Notes",
     "fotos/mindmap.png",
     "fotos/vraagteken.png",
     "fotos/Logos/Pasted image 20250910150818.png",
