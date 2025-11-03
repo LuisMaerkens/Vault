@@ -11,24 +11,17 @@
             "id": "54023b76dbdb87fd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Kanban Board/Kanban board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Main Workspace.canvas",
+                "viewState": {
+                  "x": -267.7586947274798,
+                  "y": -56.62518132250284,
+                  "zoom": -1.0287190503776829
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Kanban board"
+              "icon": "lucide-layout-dashboard",
+              "title": "Main Workspace"
             }
           }
         ]
@@ -248,8 +241,8 @@
   },
   "active": "54023b76dbdb87fd",
   "lastOpenFiles": [
-    "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Kanban Board/Kanban board.md",
+    "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Archive/sneek vergadering.md",
     "Logboek/November/03-11-2025.md",
     "Logboek/November/November.md",
