@@ -70,7 +70,7 @@ GBAV
 
 
 
-
+[Aanpassen account - Selfserviceportal](https://leeuwarden.topdesk.net/tas/public/ssp/content/detail/change?unid=2d584bb8c2094282a94207ad875be790)
 
 
 
