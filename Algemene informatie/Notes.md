@@ -78,7 +78,7 @@ GBAV
 
 
 
-https://orchestrator.leeuwarden.nl/?tid=1&fid=27
+https://orchestrator.leeuwarden.nl
 
 
 [[Algemene informatie]]
