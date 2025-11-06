@@ -11,10 +11,15 @@
             "id": "f3b624c8ecf957e2",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Kanban Board/Notes/Stageverslag Lay-Out design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Stageverslag Lay-Out design"
             }
           }
         ]
@@ -216,6 +221,7 @@
   },
   "active": "f3b624c8ecf957e2",
   "lastOpenFiles": [
+    "Kanban Board/Kanban board.md",
     "Untitled.md",
     "Algemene informatie/Notes.md",
     "Logboek/November/03-11-2025.md",
@@ -228,7 +234,6 @@
     "Logboek/Oktober/16-10-2025.md",
     "Logboek/Oktober/17-10-2025.md",
     "Logboek/Oktober/27-10-2025.md",
-    "Kanban Board/Kanban board.md",
     "Main Workspace.canvas",
     "Kanban Board/Notes/Stageverslag Lay-Out design.md",
     "Archive/sneek vergadering.md",
