@@ -8,7 +8,7 @@ aag. dat is om de gemeente
 6. kijken of je de arguments moet aanpassen
 7. dan check of je process moet aanpassen of dat je het oude kan gerbuiken (check config)
 8. check voor errors
-9. runn het om te checken of die ook echt werkt
+9. run het om te checken of die ook echt werkt
 10. 
 
 
@@ -18,7 +18,7 @@ aag. dat is om de gemeente
 
 
 
-
+op z schrij uipath
 
 
 
