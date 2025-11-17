@@ -20,6 +20,14 @@ aag. dat is om de gemeente
 
 op z schrij uipath
 
+cofig omzetten met robot
+haal dingen weg zoals lege
+de cofig(omgeving)
+omzettten naar omgeving
+
+vergeet de innit all aplications open in innit all aplications
+
+libary_overig downloaden
 
 
 shortcust ctr + m voor arugments aanmaken
