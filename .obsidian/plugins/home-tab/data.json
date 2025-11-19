@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "testest.md",
+      "timestamp": 1763545904384
+    },
+    {
+      "filepath": "Untitled.md",
+      "timestamp": 1763545903142
+    },
+    {
+      "filepath": "fotos/background.png",
+      "timestamp": 1763545879667
+    },
+    {
       "filepath": "ombouwen robot.md",
       "timestamp": 1763540210756
     },
     {
-      "filepath": "Untitled.md",
-      "timestamp": 1763540206925
-    },
-    {
       "filepath": "Logboek/November/18-11-2025.md",
       "timestamp": 1763538699792
-    },
-    {
-      "filepath": "Logboek/November/17-11-2025.md",
-      "timestamp": 1763538699366
-    },
-    {
-      "filepath": "Logboek/November/14-11-2025.md",
-      "timestamp": 1763538698930
     }
   ],
   "bookmarkedFileStore": [
