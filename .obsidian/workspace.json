@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ombouwen robot.md",
+                "file": "Leerdoelen/III.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ombouwen robot"
+              "title": "III"
             }
           }
         ],
@@ -250,14 +250,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c8f9eb9435b43825",
+  "active": "8dcbc8ae5a7688d0",
   "lastOpenFiles": [
+    "Leerdoelen/II.md",
+    "Leerdoelen/I.md",
+    "Logboek/November/18-11-2025.md",
+    "ombouwen robot.md",
     "testest.md",
     "Untitled 1.md",
     "Untitled.md",
-    "ombouwen robot.md",
     "fotos/background.png",
-    "Logboek/November/18-11-2025.md",
     "Logboek/November/17-11-2025.md",
     "Logboek/November/14-11-2025.md",
     "Logboek/November/13-11-2025.md",
@@ -277,8 +279,6 @@
     "Logboek/Oktober/30-10-2025.md",
     "Logboek/Oktober/29-10-2025.md",
     "Logboek/Oktober/28-10-2025.md",
-    "Logboek/Oktober/15-10-2025.md",
-    "Logboek/Oktober/16-10-2025.md",
     "Main Workspace.canvas",
     "Logboek/November",
     "Archive/Organogram.canvas",
