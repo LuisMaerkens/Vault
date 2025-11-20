@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logboek/November/19-11-2025.md",
+                "file": "temp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "19-11-2025"
+              "title": "temp"
             }
           }
         ]
@@ -234,11 +234,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8dcbc8ae5a7688d0",
+  "active": "13d2496a2eb8169e",
   "lastOpenFiles": [
-    "Logboek/November/20-11-2025.md",
     "Logboek/November/19-11-2025.md",
-    "Untitled 1.md",
+    "temp.md",
+    "Logboek/November/20-11-2025.md",
     "Logboek/November/17-11-2025.md",
     "Logboek/November/18-11-2025.md",
     "Leerdoelen/III.md",
