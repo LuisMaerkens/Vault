@@ -11,10 +11,15 @@
             "id": "13d2496a2eb8169e",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Logboek/November/19-11-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "19-11-2025"
             }
           }
         ]
@@ -229,18 +234,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "13d2496a2eb8169e",
+  "active": "8dcbc8ae5a7688d0",
   "lastOpenFiles": [
+    "Logboek/November/20-11-2025.md",
+    "Logboek/November/19-11-2025.md",
+    "Untitled 1.md",
+    "Logboek/November/17-11-2025.md",
+    "Logboek/November/18-11-2025.md",
     "Leerdoelen/III.md",
     "Leerdoelen/II.md",
     "Leerdoelen/I.md",
-    "Logboek/November/18-11-2025.md",
     "ombouwen robot.md",
     "testest.md",
-    "Untitled 1.md",
     "Untitled.md",
     "fotos/background.png",
-    "Logboek/November/17-11-2025.md",
     "Logboek/November/14-11-2025.md",
     "Logboek/November/13-11-2025.md",
     "Logboek/November/12-11-2025.md",
@@ -256,8 +263,6 @@
     "Algemene informatie/Notes.md",
     "Logboek/Oktober/31-10-2025.md",
     "Logboek/Oktober/Oktober.md",
-    "Logboek/Oktober/30-10-2025.md",
-    "Logboek/Oktober/29-10-2025.md",
     "Main Workspace.canvas",
     "Logboek/November",
     "Archive/Organogram.canvas",
